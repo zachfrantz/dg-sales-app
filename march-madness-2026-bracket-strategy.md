@@ -282,7 +282,40 @@ Tournament coaching experience matters enormously in close games. Coaches who ha
 
 ---
 
-## PART 6: KEY STATS AT A GLANCE
+## PART 6: ADVANCED ANALYTICS DEEP DIVE
+
+### The Four Factors (Dean Oliver Framework)
+These are the four most predictive statistical categories, in order of importance:
+1. **Effective Field Goal % (eFG%)** — the single most important factor
+2. **Turnover Rate** — turnovers per possession
+3. **Offensive Rebounding Rate** — keeping possessions alive
+4. **Free Throw Rate** — FTA/FGA ratio
+
+### Underseeded Teams (Analytics vs. Seed Mismatch)
+**Iowa (9-seed, South)** is the most underseeded team according to KenPom, BartTorvik, AND Haslametrics — they have a better average analytics ranking than nine teams seeded above them. Strong upset candidate over Clemson (8-seed).
+
+### Conference Tournament Red Flags
+**Since 1993, no national champion has lost before their conference tournament semifinals.** This eliminates Alabama (lost SEC tourney opener) from serious title contention.
+
+### Coaching Legends in the East Region
+The East Region features a murderer's row of tournament coaching pedigree:
+- **Bill Self (Kansas):** 2 championships, 4 Final Fours
+- **Rick Pitino (St. John's):** 2 championships, 7 Final Fours
+- **Dan Hurley (UConn):** Back-to-back titles (2023-24), .750 tournament win %
+- **Tom Izzo (Michigan State):** 27 consecutive tourney appearances, 8 Final Fours
+
+### Scoring Strategy Reminder
+In standard 1-2-4-8-16-32 bracket scoring, your **championship pick alone (32 pts) equals all 32 first-round games combined**. Spend 80% of your analysis energy on the Final Four and champion.
+
+### Advanced Model Consensus
+Multiple models (Nate Silver's COOPER ratings, KenPom, BartTorvik TourneyCast, ESPN BPI) converge on the same top tier: **Arizona, Duke, and Michigan have roughly a 58% combined chance of winning the title.** The gap between these three and the rest of the field is significant.
+
+### Unusual 2026 Trend
+The top six teams are all **defense-first** — this is unusual historically. Past champions have typically been offense-first. This makes Illinois (KenPom #1 offense) and Purdue (KenPom #2 offense) interesting contrarian picks, as the historical pattern slightly favors elite offenses in single-elimination formats.
+
+---
+
+## PART 7: KEY STATS AT A GLANCE
 
 ### 2026 KenPom Top 10
 | Rank | Team | Seed | Offense | Defense |
