@@ -74,6 +74,33 @@ Tournament coaching experience matters enormously in close games. Coaches who ha
 - Experience/upperclassmen (Cinderellas often have veteran rosters)
 - Cinderellas tend to play SLOW (average tempo rank: 168th)
 
+### Step 7: Check Geographic Advantages
+
+Since the pod system was introduced in 2002, **teams playing first-round games in their home states win over 80% of the time (33-8).** College basketball has the most significant home-court advantage of any major sport — worth 3-4 points.
+
+**2026 geographic edges:**
+- Cal Baptist is only 88 miles from the San Diego pod (vs. Kansas)
+- Florida is 118 miles from the Tampa pod
+- Missouri plays in St. Louis (essentially a home game vs. Miami FL)
+- Houston has HOME COURT for Sweet 16/Elite 8 (South Region)
+- St. John's has the worst travel burden: 2,444 miles to San Diego across 3 time zones
+
+### Step 8: Apply the Upset Vulnerability Checklist
+
+| Factor | Red Flag for Higher Seed |
+|--------|--------------------------|
+| Tempo | Plays slow (outside top 200 in tempo) |
+| Defense | Poor defensive efficiency despite elite offense |
+| Free Throws | Shoots poorly from the line |
+| 3PT Dependence | Lives and dies by the three |
+| Injuries | Missing key players |
+| Geography | Traveling far from home |
+| Depth | Thin rotation in compressed schedule |
+| Quad 1 Record | Weak record vs. top competition |
+| Conf. Tourney | Lost early in conference tournament |
+
+**The ideal upset candidate has:** Elite eFG%, low turnover rate, strong offensive rebounding, hot 3PT shooting, late-season momentum, and strong free throw shooting.
+
 ---
 
 ## PART 2: THE 2026 BRACKET — Region-by-Region Analysis
@@ -107,13 +134,17 @@ Tournament coaching experience matters enormously in close games. Coaches who ha
 - Duke is missing Caleb Foster (fractured foot, likely out entire tournament) and Patrick Ngongba II (questionable). This significantly weakens their perimeter defense.
 - UConn is a dangerous 2-seed with championship pedigree (back-to-back titles in 2023-24).
 - St. John's won the Big East regular season AND tournament — they're underseeded at 5.
-- South Florida (11) is a popular upset pick over Louisville (6). USF has 6 of its top 7 scorers as upperclassmen.
+- South Florida (11) is a popular upset pick over Louisville (6). USF has 6 of its top 7 scorers as upperclassmen. Won 17 of last 19 including 11 straight.
+- Louisville went 4-8 in final 12 games vs. Quad 1 opponents — fading badly.
+- Northern Iowa (12) ranks 363rd in adjusted tempo (3rd slowest in D-I) but has the 24th-best defense. Fewer possessions = more variance. A classic Cinderella profile.
+- Cal Baptist (13) has only an 88-mile drive to the San Diego pod — near-home court vs. Kansas (2,444 miles for St. John's going the other way).
 
 **Recommended picks:**
 - Duke advances but is vulnerable in the Elite Eight
 - UConn is the real threat to win this region
-- South Florida over Louisville (11 over 6 upset)
-- St. John's is dangerous — could make Sweet 16
+- South Florida over Louisville (11 over 6 upset — USF is hot, Louisville is cold)
+- St. John's is dangerous — could make Sweet 16, but watch their travel fatigue to San Diego
+- Northern Iowa could be a sneaky 12-over-5 upset of St. John's (tempo mismatch + travel edge)
 - **Region winner: UConn** (Duke's injuries open the door)
 
 ---
@@ -249,12 +280,13 @@ Tournament coaching experience matters enormously in close games. Coaches who ha
 ### First Round Upsets to Pick
 | Pick | Over | Rationale |
 |------|------|-----------|
-| 12 Akron | 5 Texas Tech | Historical 36% upset rate at this seed line |
+| 12 Akron | 5 Texas Tech | 29-5, 7th nationally in scoring, 58.5% eFG, 13.4% TO rate — ideal upset profile |
 | 11 South Florida | 6 Louisville | Veteran roster, every year since 2005 has had an 11-over-6 |
 | 11 VCU | 6 North Carolina | 16 of last 17 wins, UNC is vulnerable |
 | 10 Missouri | 7 Miami (FL) | Location advantage in St. Louis, quality wins |
 | 10 Texas A&M | 7 Saint Mary's | SMC only 1-4 in Quad 1, gave up 96 pts to Vandy |
-| 9 Utah State | 8 Villanova | 6-0 neutral site, swept Mountain West |
+| 9 Iowa | 8 Clemson | Most underseeded team per KenPom/Torvik/Haslametrics, favored -2.5 |
+| 9 Utah State | 8 Villanova | 6-0 neutral site, swept Mountain West, favored -2.5 |
 
 ### Later Round Upsets
 | Pick | Over | Round | Rationale |
