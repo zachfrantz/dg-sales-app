@@ -134,16 +134,17 @@ Tournament coaching experience matters enormously in close games. Coaches who ha
 **Analysis:** Arizona has the cleanest path of any 1-seed. They're the healthiest top team, don't rely on 3-point shooting, and have elite size/physicality. The Wildcats beat 12 ranked teams this season (tied with Duke for most ever heading into a tournament).
 
 **Key factors:**
-- Arizona is the "safest" 1-seed pick per virtually every analyst
-- Purdue (#2 offense nationally, KenPom #8) won the Big Ten tournament
-- Arkansas won the SEC tournament — conference tourney winners have won 3 of last 4 titles
+- Arizona is the "safest" 1-seed pick per virtually every analyst. Three of top five scorers are freshmen but they also have experienced seniors led by Big 12 POY Jaden Bradley.
+- Purdue (#2 offense nationally, KenPom #8) won the Big Ten tournament — Trey Kaufman-Renn (20 pts) and Oscar Cluff (21 pts) carried them past Michigan 80-72
+- Arkansas won the SEC tournament (Darius Acuff Jr. 30 pts, 11 ast in the final) — conference tourney winners have won 3 of last 4 titles
 - Missouri (10) gets a location break playing in St. Louis with quality wins over Florida, Vanderbilt, Tennessee
-- Utah State swept Mountain West regular season and tourney, 6-0 in neutral-site games
+- Utah State swept Mountain West regular season and tourney, 6-0 in neutral-site games. One of the most experienced rosters in D-I.
+- Sportsbooks have Utah State FAVORED (-2.5) over Villanova despite being the lower seed
 
 **Recommended picks:**
 - Arizona cruises to the Elite Eight
 - Missouri over Miami (10 over 7 upset — location advantage)
-- Villanova vs Utah State is a true toss-up (lean Utah State for their neutral-site record)
+- Utah State over Villanova (sportsbooks agree — Utah State is favored despite being the 9-seed)
 - **Region winner: Arizona** (healthiest, most complete team in the field)
 
 ---
@@ -164,16 +165,19 @@ Tournament coaching experience matters enormously in close games. Coaches who ha
 **Analysis:** Michigan has the clearest path to the Final Four, which is why they're the betting favorite despite losing the Big Ten tournament. The bottom half could get chaotic.
 
 **Key factors:**
-- Michigan lost L.J. Cason (ACL tear) but can still go 8 deep. They own the #1 defense nationally.
+- Michigan lost L.J. Cason (ACL tear) but can still go 8 deep. They own the #1 defense nationally, anchored by 7-2 Aday Mara.
 - Alabama is a RED FLAG: lost first game of SEC tournament, allows 83.5 ppg (worst in 56 years). No team has EVER won a title after losing its conference tournament opener.
 - Iowa State (KenPom championship formula team) is a strong 2-seed
 - Virginia has an intimidating duo of Malik Thomas and Thijs de Ridder
-- Kentucky adds chaos as a 7-seed
+- Kentucky (7-seed) lost 5 of final 7 regular-season games — fading badly
+- Akron (29-5) is 7th nationally in scoring with an explosive offense
+- Texas Tech has the #12 offense AND is 5th nationally in 3PT% (39.5%) — dangerous two-way team
 
 **Recommended picks:**
 - Michigan to the Final Four (clearest path)
 - Alabama upset alert: Hofstra (13) or their Round 2 opponent could take them down
-- Akron over Texas Tech (12 over 5 — your required 12-seed upset)
+- Akron over Texas Tech (12 over 5 — your required 12-seed upset). Akron's explosive offense can torch anyone.
+- Kentucky is a fade — cold streak makes them vulnerable to Santa Clara (10)
 - **Region winner: Michigan**
 
 ---
@@ -191,15 +195,17 @@ Tournament coaching experience matters enormously in close games. Coaches who ha
 | 7 | Saint Mary's | vs | 10 | Texas A&M |
 | 2 | Houston | vs | 15 | Idaho |
 
-**Analysis:** This region has a fascinating subplot: Houston is the 2-seed and will have effective HOME COURT ADVANTAGE in the Sweet 16 and Elite Eight (played at Toyota Center in Houston). Houston has a Hall of Fame coach (Kelvin Sampson), roster continuity, and multiple projected first-round NBA picks.
+**Analysis:** This region has a fascinating subplot: Houston is the 2-seed and will have effective HOME COURT ADVANTAGE in the Sweet 16 and Elite Eight (played at Toyota Center in Houston). Houston has a Hall of Fame coach (Kelvin Sampson), roster continuity from last year's championship game run, and multiple projected first-round NBA picks.
 
 **Key factors:**
-- Florida was humbled by Vanderbilt in SEC tournament semis — are they vulnerable?
+- Florida was humbled by Vanderbilt in SEC tournament semis — are they vulnerable? Their frontcourt trio of Haugh/Condon/Chinyelu is still overwhelming.
 - Houston's home-court advantage in later rounds is MASSIVE
-- Illinois has the #1 offense in the nation (KenPom #5 overall)
+- Illinois has the #1 offense in the nation (KenPom #5 overall) — a Houston vs Illinois Sweet 16 would pit star freshmen Kingston Flemings vs Keaton Wagler (#5 and #6 NBA draft prospects)
 - VCU has won 16 of 17 under first-year coach Phil Martelli Jr. — strong upset candidate over UNC
+- Iowa (9-seed) is the MOST UNDERSEEDED team per KenPom, Torvik, and Haslametrics — favored by sportsbooks (-2.5) over Clemson despite being the lower seed
 - Saint Mary's is vulnerable (gave up 96 points to Vanderbilt, only 1-4 in Quad 1 games)
 - Vanderbilt (KenPom #12) is a sneaky-good 5-seed
+- Nebraska (4-seed) has NEVER won an NCAA Tournament game in program history — upset risk vs Troy
 
 **Recommended picks:**
 - VCU over North Carolina (11 over 6 upset)
@@ -309,6 +315,28 @@ In standard 1-2-4-8-16-32 bracket scoring, your **championship pick alone (32 pt
 
 ### Advanced Model Consensus
 Multiple models (Nate Silver's COOPER ratings, KenPom, BartTorvik TourneyCast, ESPN BPI) converge on the same top tier: **Arizona, Duke, and Michigan have roughly a 58% combined chance of winning the title.** The gap between these three and the rest of the field is significant.
+
+### Hot & Cold Streaks Entering the Tournament
+
+**Riding hot streaks (pick to advance):**
+- South Florida — won 17 of last 19 (including 11 straight)
+- VCU — 13-1 in final 14 games
+- Purdue — surging after dominant Big Ten tournament run
+- High Point — 14-game winning streak (longest active in D-I)
+- UMBC — 12-game winning streak, 38% from three during the run
+
+**Ice cold (fade these teams):**
+- Kentucky — lost 5 of final 7 regular-season games
+- SMU — lost 5 of last 6
+- NC State — dropped final 4 regular-season games including blowouts
+- UCF — lost 4 of last 5
+- Louisville — 4-8 in final 12 games vs. Quad 1 opponents
+
+### Kansas Injury Watch
+Kansas 4-seed Darryn Peterson (19.9 PPG, projected #1 NBA pick) missed 11 games due to multiple injuries — his conditioning and availability are significant concerns.
+
+### UCLA Injury Watch
+UCLA's top two scorers are injured heading into the tournament — makes them vulnerable to UCF (10-seed) despite UCF's own cold streak.
 
 ### Unusual 2026 Trend
 The top six teams are all **defense-first** — this is unusual historically. Past champions have typically been offense-first. This makes Illinois (KenPom #1 offense) and Purdue (KenPom #2 offense) interesting contrarian picks, as the historical pattern slightly favors elite offenses in single-elimination formats.
