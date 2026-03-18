@@ -867,4 +867,11 @@ BEFORE EVERY BET:
 
 ---
 
-*Strategy compiled March 2026. All historical data sourced from Covers.com, Action Network, VSiN, KenPom, SportsBooksReview, ESPN, NBC Sports, NCAA.com, and multiple sports analytics outlets. Past performance does not guarantee future results. Bet responsibly.*
+## Companion Documents
+
+- **[SCORING_MODEL.md](SCORING_MODEL.md)** — The quantitative scoring formula. Apply it to every game to generate bet/no-bet recommendations and unit sizing.
+- **[SOURCES.md](SOURCES.md)** — Complete validated source list with verification status for every claim in this document.
+
+---
+
+*Strategy compiled March 2026. All historical data sourced from Covers.com, Action Network, VSiN, KenPom, SportsBooksReview, ESPN, NBC Sports, NCAA.com, and multiple sports analytics outlets. All sources validated — see SOURCES.md for verification details. Past performance does not guarantee future results. Bet responsibly.*
