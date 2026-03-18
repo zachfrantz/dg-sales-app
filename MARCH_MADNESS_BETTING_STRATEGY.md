@@ -21,8 +21,12 @@
 13. [Experience & Roster Composition](#experience--roster-composition)
 14. [Live Betting Strategy](#live-betting-strategy)
 15. [Recency Bias & Traps to Avoid](#recency-bias--traps-to-avoid)
-16. [The Playbook: Actionable Rules](#the-playbook-actionable-rules)
-17. [2026 Tournament-Specific Notes](#2026-tournament-specific-notes)
+16. [Injury Impact & Player Value](#injury-impact--player-value)
+17. [Travel, Venue Proximity & Time Zones](#travel-venue-proximity--time-zones)
+18. [Tempo, Style & Matchup Dynamics](#tempo-style--matchup-dynamics)
+19. [Intangibles & Psychology](#intangibles--psychology)
+20. [The Playbook: Actionable Rules](#the-playbook-actionable-rules)
+21. [2026 Tournament-Specific Notes](#2026-tournament-specific-notes)
 
 ---
 
@@ -461,33 +465,303 @@ The bracket has been chalky recently (2024 especially). But there is **zero hist
 
 ---
 
+## Injury Impact & Player Value
+
+### What Is a Player "Worth" to the Spread?
+
+| Player Type | Point Spread Impact | Example |
+|-------------|-------------------|---------|
+| **Star player** (30%+ usage, 80%+ minutes) | **3.0-3.5 points** | Marcus Sasser (Houston 2023): 3.29 pts |
+| **Key starter** (elite rebounder/defender) | **2.0-3.0 points** | Norchad Omier (Miami 2023): 3.36 pts |
+| **Important rotation piece** | **1.0-2.0 points** | |
+| **Bench player** (10-15 min/game) | **0.5-1.0 points** | |
+
+**Tools:** EvanMiya's CBB Analytics provides an Indispensability Score and Injury Rank that quantifies how much worse a team would be without a given player.
+
+### Market Efficiency Around Injuries
+
+- **Modern adjustment speed:** Books take games off the board within seconds of high-profile injury news, then re-post within hours. The window for exploiting breaking news is nearly closed.
+- **Where edges still exist:**
+  - "Questionable" / game-time decisions — the book must hedge between two scenarios. Better intel = better bets.
+  - **Non-star injuries are underpriced.** A role player who anchors the defense or leads in rebounding won't trigger a line move, but his absence materially weakens the team.
+  - **Star injuries are sometimes overpriced.** The public overreacts to big names, and the line moves too far — creating value on the injured team.
+
+### NEW for 2026: NCAA Player Availability Reports
+
+For the first time, the NCAA mandates player availability reports for the tournament:
+
+- **9 PM local time** the night before: initial report
+- **2 hours before tip-off:** updated report
+- Designations: **Available** (>75% chance), **Questionable** (up to 75%), **Out**
+- Penalties: $10K (first offense) to $30K + $10K coach penalty (third offense)
+
+**Betting implication:** The "questionable" designation still leaves significant uncertainty. Monitor the 2-hour-before-tip update — that's where late value emerges.
+
+### Lower Seeds Are Twice as Likely to Upset When the Opponent Is Injured
+
+In a recent tournament analysis, 11 of 14 upsets featured at least one injured player on the losing (higher-seeded) team. Lower seeds are nearly **twice as likely to pull off an upset** when they are healthier than the opponent.
+
+### Short Bench ≠ Bad in March
+
+Counter-intuitively, **shorter rotations correlate with tournament success:**
+
+- 2022 Final Four: All four teams had the fewest bench minutes among the top-16 KenPom teams
+- 2015 championship: Both Wisconsin (21.2% bench minutes) and Duke rode 6-man rotations
+- 2016 Sweet 16: 7 of 16 teams ranked 330th+ (out of 351) in bench minute percentage
+
+**The key distinction:** Voluntarily short rotations (coach trusts his top 6-7) = neutral to positive. Involuntarily short rotations due to injury = negative.
+
+### 2026 Injury Cheat Sheet
+
+| Team (Seed) | Player | Status | Impact Level |
+|-------------|--------|--------|-------------|
+| **Arizona (1)** | Healthy | Full strength | **Healthiest #1 seed** |
+| Duke (1) | Caleb Foster (8.5 PPG, 40% 3PT) | Out (foot fracture) | High — lost key floor spacer |
+| Duke (1) | Patrick Ngongba II (10.7 PPG, 6.0 RPG) | Hopeful to return | High — starting center, effectiveness uncertain |
+| Florida (1) | Micah Handlogten (C) | Out (broken leg) | Moderate — lost starting center in SEC semis |
+| Michigan (1) | L.J. Cason (reserve G) | Out (torn ACL) | Moderate — most accurate 3PT shooter |
+| UNC (6) | Caleb Wilson (projected top-5 pick) | Out (thumb, season) | **Critical** — 0-2 without him, dropped a seed line |
+| Texas Tech | JT Toppin (leading scorer/rebounder) | Out (torn ACL) | **Critical** — odds went 35-1 to 125-1 |
+| Gonzaga (3) | Braden Huff (17.8 PPG) | Out first two weekends | High — possible Sweet 16 return |
+| BYU (6) | Richie Saunders (18.0 PPG, 38% 3PT) | Out (torn ACL) | **Critical** — went 2-4 in final 6 games without him |
+| Louisville | Mikel Brown Jr. (18.2 PPG) | Day-to-day (back) | High — hasn't played since Feb 28 |
+| Alabama | Aden Holloway (16.8 PPG) | Likely out (arrested) | High — team down to 9 scholarship players |
+| Clemson | Carter Welling (10.2 PPG, 5.4 RPG) | Out (torn ACL) | Moderate — lost a starter |
+| UCLA (7) | Tyler Bilodeau (star F) | Expected to play | Moderate — missed Big Ten semifinal |
+
+---
+
+## Travel, Venue Proximity & Time Zones
+
+### The Academic Foundation
+
+The Clay, Bro & Clay (2014) study analyzed **3,296 team performances across 1,648 tournament games over 26 years (1985-2011):**
+
+- **Teams traveling 150+ miles from home:** Winning odds reduced by **33.6%** (odds ratio 0.644)
+- **Teams traveling east across 2+ time zones:** Win percentage **drops below 38%**
+- **Eastward travel:** Reduces winning odds by **13.9%** — statistically significant
+- **Westward travel:** Also reduces odds, but NOT to statistical significance
+- **Altitude and temperature:** No significant effect in tournament play (all 2026 venues are low elevation)
+
+### The In-State Advantage Is Massive
+
+| Proximity Tier | Performance | Notes |
+|---------------|-------------|-------|
+| **In-state** | **33-8 SU (80%+)** since pod system (2002) | Strongest signal in the data |
+| Within 300 miles | 6-1 in Round of 32 | Strong edge |
+| Within 500 miles | 55% ATS cover rate for favorites; 11-6 SU in R32 | Modest but consistent |
+| 500+ miles | Performance drops measurably | Effect strongest for favorites |
+
+### The 7/10 Matchup Is the Sharpest Proximity Play
+
+Since the pod system, **23 of 32 7-vs-10 games (72%) have been won by the geographically closer team.** This is the single most actionable proximity-based trend.
+
+### Why Eastward Travel Is Worse
+
+NCAA tournament tips start as early as **12:15 PM ET**. For a Pacific time zone team, that's **9:15 AM body clock time.** Peak athletic performance occurs between 4-8 PM local time — crossing time zones shifts that window.
+
+### 2026 Geographic Advantages
+
+| Team (Seed) | Site | Distance | Advantage |
+|-------------|------|----------|-----------|
+| Miami OH (11, First Four) | Dayton, OH | ~42 miles | Practically a home game |
+| Cal Baptist (13) | San Diego | ~82 miles | Shortest R64 trip in the field |
+| Missouri (10) | St. Louis | ~117 miles | Near-home environment |
+| **Florida (1)** | **Tampa** | **~130 miles** | **In-state. 11-2 historically in in-state tourney games, including 9 straight wins** |
+| Duke (1) | Greenville, SC | ~230 miles | Short drive, massive regional fan base |
+| UConn (2) | Philadelphia | ~201 miles | Large Northeast alumni base |
+
+### 2026 Geographic Disadvantages
+
+| Team (Seed) | Site | Distance | Time Zone Shift | Risk |
+|-------------|------|----------|-----------------|------|
+| **UCLA (7)** | **Philadelphia** | **~2,450 miles** | **+3 hours (Pacific→Eastern)** | **HIGH — worst travel mismatch in R64** |
+| Hawaii (13) | Portland | ~2,594 miles | +2 hours | Longest absolute trip |
+| Santa Clara (10) | St. Louis | ~1,800 miles | +2 hours | Moderate-High |
+| Saint Mary's (7) | Oklahoma City | ~1,500 miles | +2 hours | Moderate |
+
+### 2026 Biggest Travel-Edge Differentials
+
+- **Arizona:** ~2,064 fewer miles than their R1 opponent — largest advantage in the field
+- **Cal Baptist vs. Kansas:** 82 miles vs. ~1,290 miles (1,208-mile edge for Cal Baptist)
+- **Missouri vs. Miami FL (7/10 game in St. Louis):** Missouri is essentially at home while Miami travels ~1,100 miles — fits the 72% proximity trend perfectly
+
+### The Pod System Structurally Hurts 8-Seeds
+
+Since all four 1-seeds choose the closest site first, **8-seeds end up at a "home-crowd disadvantage" nearly 4 times as often** as a random draw would produce. The 8/9 game is already a coin flip — the geographic disadvantage compounds it.
+
+---
+
+## Tempo, Style & Matchup Dynamics
+
+### Tempo Mismatches: Who Benefits?
+
+**Faster-paced underdogs win more often outright:**
+
+- Successful upset games averaged **67.77 possessions** vs. 64.93 for failed upsets (P-value: 0.0134)
+- Underdogs above the pace threshold won 24.2% SU (+16% ROI) vs. 23% SU (-13% ROI) for slow underdogs
+
+**But Cinderellas play slow:** Double-digit seeds reaching Sweet 16 from non-major conferences have an average adjusted tempo rank of ~168th. They control pace and limit possessions, reducing the sample size for the better team to assert dominance.
+
+**Resolution:** The data suggests faster underdogs are better SU bets, while slow underdogs are better at keeping games close (ATS value). Check KenPom AdjT differentials for large mismatches.
+
+### Three-Point Shooting: Accuracy Matters, Not Volume
+
+**There is NO statistical relationship between 3-point volume and variance in points per possession.** The "live by the three, die by the three" narrative is wrong.
+
+What actually matters:
+
+- Underdogs that won made **5.3% more of their threes** than their season average
+- Favorites that lost made **5.2% fewer** than their season average
+- Combined, this creates a **~7-point swing** — the single largest effect identified
+
+**Betting angle:** Don't fade teams because they shoot a lot of threes. Instead, identify teams with **poor 3-point defense** — they can't control whether shots go in once released, making them vulnerable to hot-shooting upsets.
+
+### Free Throw Shooting: The Most Reliable ATS Trend
+
+This is arguably the single strongest and most actionable trend in the entire tournament:
+
+| FT% Threshold | Spread | ATS Record | Win % | ROI |
+|---------------|--------|-----------|-------|-----|
+| **77%+ season FT%** | All spreads | **97-56-2** | **63.4%** | **+21.8%** |
+| **77%+ season FT%** | 6 or less | **60-34** | **64.0%** | |
+| **77%+ season FT%** | **4 or less** | **39-19** | **67.2%** | Covers by 4.1 PPG avg |
+
+**Why:** Close tournament games are decided in the final 2 minutes at the foul line. Good FT shooting teams close those situations.
+
+The combined FT average of the past 34 national champions is **71.9%** vs. 70.1% for all tournament teams. In the 5 post-pandemic tournaments, 9 of 11 double-digit seeds that survived the first weekend ranked top-30 in either FT% or opponent FT rate.
+
+### Offensive Rebounding: Increasingly Predictive
+
+- **71 teams** in 2025-26 are securing offensive rebounds on 34%+ of missed FGs (up from 27 teams five years ago)
+- Double-digit seeds with rebounding margin above +5 AND top-40 defensive efficiency: **covered ATS at 58%** over the last decade
+- Tournament shooting percentages drop on unfamiliar arenas — second-chance points become the margin
+- **2026:** Florida leads the nation at 45.4 RPG (+15.3 margin). Alabama is 4-6 when opponents grab 38%+ of offensive rebounds.
+
+### Defensive Style: Press vs. Half-Court
+
+- **Press defenses fuel Cinderella runs:** VCU 2011 ("Havoc"), plus national champions under Pitino (1996), Donovan (2006-07), Richardson (1994)
+- **Press creates variance** — good for underdogs who need chaos to neutralize talent gaps
+- **Elite half-court defenses create consistency** — good for favorites covering reliably
+- **2026 press teams to watch:** McNeese (nation's #1 defensive turnover rate), High Point (top-5 nationally in turnover rate both ends), VCU (3rd in A-10 turnover margin)
+
+### The Cinderella Profile (Quantified)
+
+Double-digit seeds from non-major conferences reaching Sweet 16 since 2001 share these traits:
+
+| Trait | Average/Threshold | Notes |
+|-------|------------------|-------|
+| KenPom AdjEM rank | ~55th | Must be better than their seed suggests |
+| Adjusted Tempo rank | ~168th | Slower than median |
+| FT% or Opponent FT rate | Top-30 nationally (9/11 post-pandemic) | Close out games at the line |
+| Conference tournament | Won or reached final (16/19) | Peaked at the right time |
+| Turnover forcing | Elite steal rate | Steal extra possessions from more talented teams |
+| 3-point shooting | Efficient (not necessarily high volume) | Accuracy > volume |
+
+**2026 Cinderella candidates fitting the profile:** Hofstra (slow pace, 36.8% from 3), VCU (16-1 run, turnover-forcing defense), McNeese (deep experienced roster, #1 defensive turnover rate), High Point (top-5 turnover differential, 9 seniors)
+
+### Blowout Regression: Sell High After Round of 64
+
+Teams winning by 20+ in Round of 64 are **25-44-1 ATS (36.2%)** in Round of 32 when their opponent won by less than 20. This is one of the strongest "sell high" signals in the tournament.
+
+---
+
+## Intangibles & Psychology
+
+### The "Brand Name Tax"
+
+Blue-blood programs carry an inflated spread because of public betting volume:
+
+- Teams receiving **<20% of spread bets:** 11-1 ATS in 2017 tournament
+- Teams receiving **<40% of spread bets:** 19-9 ATS
+- Favorites receiving **<50% of spread tickets:** 73-51 ATS (58.9%) in opening weekend
+
+**The tax is approximately 1-3 points of extra spread** that blue bloods carry compared to a purely analytical line. The effect is strongest in the first two rounds when casual bettors flood the market.
+
+**2026 example:** All four No. 2 seeds are 20+ point favorites in Round 1 — only two 2-seeds over the previous four tournaments were 20+ point favorites. Duke opened at -29.5 against 16-seed Siena.
+
+### First-Time Tournament Teams & the NIL-Era Cinderella Decline
+
+**Pre-NIL (before 2021):** First-timers frequently overperformed — FGCU (2013), Saint Peter's (2022), Oral Roberts (2021).
+
+**Post-NIL reality:** Cinderellas are disappearing:
+
+- 2025 produced only **13 outright underdog wins** — tied for fewest since field expanded to 64 in 1985
+- 13-to-16 seeds since 2021: **6-58 SU (9.4%) and 25-39 ATS (39%)**
+- The entire 2025 Sweet 16 came from just 4 conferences
+- Mid-majors now function as "unofficial developmental leagues" for Power Four schools via the transfer portal
+
+### Referee Tendencies: A Hidden Edge
+
+**Tools:** RefMetrics.com (2,363 officials, 93,981 games, 16 seasons) and KenPom's Fouls Above Average (FAA)
+
+- Average fouls per game among 2024 Final Four referees ranged from **30.20 to 35.60** — a 5.4-foul swing that meaningfully affects totals
+- Referees display a tendency to **even out foul counts**: every additional unit of foul differential raises odds of a foul on the leading team by 12.5-19.9%
+- **Actionable:** Check crew assignments before tip. High-foul crews favor overs and rim-attacking teams; low-foul crews favor unders and perimeter teams.
+
+### Motivational Narratives: Real but Hard to Price
+
+- Narrative-driven teams tend to be **underpriced early** in the tournament (public hasn't caught on) and **overpriced late** (ESPN runs the story into the ground)
+- **The edge is in being early.** Once a narrative goes mainstream, the value evaporates.
+- Example: Loyola Chicago 2018 — the Sister Jean narrative was underpriced in R1 but fully priced by the Final Four
+
+### Off-Court Disruptions Are Actionable
+
+Off-court issues produce measurable line movements and are among the most exploitable intangible factors:
+
+- **Alabama/Holloway (2026):** Arrest triggered 1-point line move (12.5 to 11.5). Team down to 9 scholarship players. Alabama is 9.7 points per 100 possessions better on offense with him.
+- **Indicators to monitor:** Mid-season coaching changes, public player-coach conflicts, key player suspensions, transfer portal entries during the season, mandatory availability reports (new for 2026)
+
+### The Transfer Portal Cohesion Problem
+
+- **Power-6 schools:** Increasing the percentage of transfers actually **decreases** wins (Indiana University research)
+- **Non-Power-6 schools:** Wins increase with more transfers (the talent upgrade outweighs cohesion loss)
+- NIL disparities within teams can fracture locker rooms
+- Power programs are building physically larger rosters to "upset-proof" themselves — the top 4 teams in 2026 all rank inside the top 30 in average height
+
+### Senior Experience: A Myth with a Kernel of Truth
+
+- R-squared of **0.0002** between roster experience and outperforming seed expectations — essentially zero correlation
+- **However:** Every champion in the last 15 years had multiple upperclassmen in key roles
+- Freshmen-led #1 seeds historically struggle to win it all: Arizona is only the 4th #1 seed with both top-two scorers being freshmen. The other three (2010 Kentucky, 2019 Duke, 2025 Duke) — **none won the title**
+- **2026:** Record 13 tournament teams have a freshman leading scorer, which may create late-round opportunities for experienced squads
+
+---
+
 ## The Playbook: Actionable Rules
 
 ### Tier 1: Highest-Conviction Edges (2-3 units)
 
 1. **Back 12-seeds ATS vs. 5-seeds** — 57% cover rate, the single most reliable trend
-2. **Fade teams with 75%+ public backing** — 31-44-2 ATS
-3. **Elite Eight underdogs** — best round for dogs, small favorites are 1-10-1 ATS
-4. **First-round unders when total is 150+** — 30-12 under (71.4%)
-5. **Sweet 16 double-digit seeds** — 16-7-1 ATS (69.6%) since 2011
+2. **Teams with 77%+ FT% in games with spread ≤4** — 39-19 ATS (67.2%), +21.8% ROI
+3. **Fade teams with 75%+ public backing** — 31-44-2 ATS
+4. **Elite Eight underdogs** — best round for dogs, small favorites are 1-10-1 ATS
+5. **First-round unders when total is 150+** — 30-12 under (71.4%)
+6. **Sweet 16 double-digit seeds** — 16-7-1 ATS (69.6%) since 2011
 
 ### Tier 2: Strong Edges (1-2 units)
 
-6. **Back 11-seeds ATS vs. 6-seeds** — 62% dog cover rate
-7. **Fade Round of 32 blowout winners** — 49-64-2 ATS after winning by 20+
-8. **Elite Eight overs** — 87-63-2 (58%) since 2001
-9. **Back coaches with elite ATS records** (Hurley, Enfield, Painter)
-10. **Fade coaches with terrible ATS records** (Barnes, Dixon, Lloyd)
-11. **First-half unders in early tip-off games** — 60.4% since 2012
+7. **Back 11-seeds ATS vs. 6-seeds** — 62% dog cover rate
+8. **Fade Round of 32 blowout winners** — 25-44-1 ATS (36.2%) after winning by 20+
+9. **Elite Eight overs** — 87-63-2 (58%) since 2001
+10. **Back coaches with elite ATS records** (Hurley, Enfield, Painter)
+11. **Fade coaches with terrible ATS records** (Barnes, Dixon, Lloyd)
+12. **First-half unders in early tip-off games** — 60.4% since 2012
+13. **Back the closer team in 7/10 matchups** — 72% win rate for the geographically closer team
+14. **Fade West Coast teams traveling 2+ time zones east** — win% drops below 38%
 
 ### Tier 3: Supporting Edges (1 unit)
 
-12. **Reverse line movement plays** — 57.3% historically
-13. **ACC teams as pick-em or small dogs** — 79.2% ATS
-14. **Fade SEC teams as low seeds** — 41.2% ATS
-15. **Back teams playing in home state** — 80%+ SU since 2002
-16. **Championship game under** — 55.2%
-17. **Bounce-back teams** from prior year's disappointing exit
+15. **Reverse line movement plays** — 57.3% historically
+16. **ACC teams as pick-em or small dogs** — 79.2% ATS
+17. **Fade SEC teams as low seeds** — 41.2% ATS
+18. **Back teams playing in home state** — 80%+ SU since 2002 (Florida in Tampa, Duke in Greenville)
+19. **Championship game under** — 55.2%
+20. **Bounce-back teams** from prior year's disappointing exit
+21. **DD seeds with rebounding margin +5 & top-40 def. efficiency** — 58% ATS
+22. **Fade brand-name programs with 80%+ public tickets** — 2-11 ATS since 2005
+23. **Check referee crew assignments** — 5+ foul swing between high/low-foul crews affects totals
+24. **Monitor late injury reports (2 hrs before tip)** — "questionable" designations create value windows
 
 ### Rules to Never Break
 
@@ -541,15 +815,19 @@ Track which teams played 4+ games in their conference tournament. These teams ar
 ROUND OF 64:
   ✅ 12-seeds ATS vs 5-seeds (57%)
   ✅ 11-seeds ATS vs 6-seeds (62%)
+  ✅ Teams with 77%+ FT% in close spreads (67.2% ATS)
   ✅ First-half unders (55.9%)
   ✅ Unders when total 150+ (71.4%)
+  ✅ Closer team in 7/10 matchups (72% win rate)
+  ✅ In-state teams (80%+ SU)
   ❌ Small favorites -1 to -3 (41% ATS)
   ❌ 75%+ public-backed teams (31-44-2 ATS)
+  ❌ West Coast teams traveling 2+ time zones east (<38% win rate)
 
 ROUND OF 32:
   ✅ First Four game winners (91.3% ATS in next game)
   ❌ 14-seeds that upset in R1 (0-10 in R2)
-  ❌ R1 blowout winners (49-64-2 ATS)
+  ❌ R1 blowout winners (25-44-1 ATS, 36.2%)
 
 SWEET 16:
   ✅ Double-digit seeds (69.6% ATS)
@@ -566,15 +844,25 @@ CHAMPIONSHIP:
   ✅ Unders (55.2%)
   ⚖️ Spread is meaningless (19-19 ATS)
 
-ALWAYS:
+ALWAYS CHECK:
   ✅ Reverse line movement (57.3%)
   ✅ Coaches: Hurley, Enfield, Painter
   ✅ ACC as small dogs (79.2% ATS)
   ✅ Home state teams (80%+ SU)
-  ❌ Coaches: Barnes, Dixon, Lloyd
+  ✅ Teams with 77%+ FT% (63.4% ATS overall)
+  ✅ DD seeds with +5 rebound margin & top-40 defense (58% ATS)
+  ❌ Coaches: Barnes, Dixon, Lloyd, Golden
   ❌ SEC as low seeds (41.2% ATS)
   ❌ Mountain West (32.2% ATS)
   ❌ Conference tournament fatigue (4+ games in 4 days)
+  ❌ Blue-blood brand tax (80%+ public = 2-11 ATS)
+
+BEFORE EVERY BET:
+  📋 Check RefMetrics.com for crew assignments (affects totals)
+  📋 Check NCAA availability reports (2 hrs before tip)
+  📋 Check travel distance & time zone shift
+  📋 Check 3-point defense rank (poor = upset-vulnerable)
+  📋 Verify bet % vs. dollar % (sharp money indicator)
 ```
 
 ---
