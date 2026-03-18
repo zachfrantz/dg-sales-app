@@ -140,12 +140,11 @@ Since the pod system was introduced in 2002, **teams playing first-round games i
 - Cal Baptist (13) has only an 88-mile drive to the San Diego pod — near-home court vs. Kansas (2,444 miles for St. John's going the other way).
 
 **Recommended picks:**
-- Duke advances but is vulnerable in the Elite Eight
-- UConn is the real threat to win this region
-- South Florida over Louisville (11 over 6 upset — USF is hot, Louisville is cold)
-- St. John's is dangerous — could make Sweet 16, but watch their travel fatigue to San Diego
-- Northern Iowa could be a sneaky 12-over-5 upset of St. John's (tempo mismatch + travel edge)
-- **Region winner: UConn** (Duke's injuries open the door)
+- Duke advances to the Final Four — even without Foster, Boozer (22.7/10.2/4.2, 41% from 3) is the best player in the region
+- St. John's is underseeded — pick them to beat Kansas and make the Sweet 16 (Pitino in March + Big East double champ)
+- South Florida over Louisville (11 over 6 upset — USF has won 17 of 19, Louisville 4-8 in Q1). Note: USF's streak was against weaker opponents (avg NET 158), so this is a genuine toss-up.
+- UCLA's Bilodeau and Dent are EXPECTED TO PLAY (sat out Big Ten tourney as precaution). UCLA over UCF.
+- **Region winner: Duke** (32-2, Boozer is transcendent — 39 of 60 ESPN experts agree)
 
 ---
 
@@ -174,9 +173,13 @@ Since the pod system was introduced in 2002, **teams playing first-round games i
 
 **Recommended picks:**
 - Arizona cruises to the Elite Eight
-- Missouri over Miami (10 over 7 upset — location advantage)
+- Missouri over Miami (10 over 7 upset — location advantage in St. Louis)
 - Utah State over Villanova (sportsbooks agree — Utah State is favored despite being the 9-seed)
-- **Region winner: Arizona** (healthiest, most complete team in the field)
+- BYU over Texas (AJ Dybantsa is averaging 25.3 PPG — nation's leading scorer — and BYU is favored by 2.5-3.3 pts despite going 7-10 late. Texas is 18-14 and barely survived NC State in the First Four.)
+- Wisconsin vs High Point is NOT safe — HP averages 90 PPG (3rd nationally), forces 16.4 TO/game (3rd nationally), and Wisconsin allows 51.2% eFG (179th). Classic 5-12 trap.
+- Purdue's defense collapsed from #20 to #88 late in the season — Wisconsin (4 top-10 KenPom wins, elite 3PT shooting) can beat them in R2
+- Gonzaga is missing Braden Huff (knee, doubtful R1-R2)
+- **Region winner: Arizona** (healthiest, most complete team in the field — but note: Tommy Lloyd is 1-3 in the Sweet 16 at Arizona)
 
 ---
 
@@ -196,20 +199,23 @@ Since the pod system was introduced in 2002, **teams playing first-round games i
 **Analysis:** Michigan has the clearest path to the Final Four, which is why they're the betting favorite despite losing the Big Ten tournament. The bottom half could get chaotic.
 
 **Key factors:**
-- Michigan lost L.J. Cason (ACL tear) but can still go 8 deep. They own the #1 defense nationally, anchored by 7-2 Aday Mara.
-- Alabama is a RED FLAG: lost first game of SEC tournament, allows 83.5 ppg (worst in 56 years). No team has EVER won a title after losing its conference tournament opener.
-- Iowa State (KenPom championship formula team) is a strong 2-seed
-- Virginia has an intimidating duo of Malik Thomas and Thijs de Ridder
-- Kentucky (7-seed) lost 5 of final 7 regular-season games — fading badly
-- Akron (29-5) is 7th nationally in scoring with an explosive offense
-- Texas Tech has the #12 offense AND is 5th nationally in 3PT% (39.5%) — dangerous two-way team
+- Michigan lost L.J. Cason (ACL tear) but can still go 8 deep. They own the #1 defense nationally, anchored by 7-2 Aday Mara. However, they are 0-5 ATS since the injury, and Cadeau will be playing 35+ min/game with no backup PG. Fatigue and foul trouble are real risks by E8.
+- **BREAKING: Alabama's Aden Holloway arrested on felony drug charges** — suspended indefinitely, removed from campus. Their #2 scorer (16.8 PPG, 44% from 3) is OUT. Alabama is now down to 9 scholarship players with the worst defense in 56 years.
+- Alabama also lost its SEC tournament opener — since 1993, no champion has done that.
+- Iowa State (KenPom championship formula team) is a strong 2-seed with elite ball-pressure defense
+- Virginia has an intimidating duo of Malik Thomas and Thijs de Ridder, but their slow tempo is upset-prone (they lost to 16-seed UMBC in 2018)
+- Kentucky (7-seed) lost 5 of final 7 regular-season games, is only 5-11 in Quad 1 games — fading badly
+- Akron (29-5) is 7th nationally in scoring with an explosive offense. Three players shoot 40%+ from three.
+- Texas Tech lost JT Toppin (21.8 PPG, 10.8 RPG) to ACL tear and has lost 3 straight including a 22-point blowout
+- Saint Louis (28-5) is 2nd nationally in 3PT% — much stronger than a typical 9-seed
+- Miami Ohio went 31-1 (undefeated regular season) and could beat SMU in the First Four
 
 **Recommended picks:**
-- Michigan to the Final Four (clearest path)
-- Alabama upset alert: Hofstra (13) or their Round 2 opponent could take them down
-- Akron over Texas Tech (12 over 5 — your required 12-seed upset). Akron's explosive offense can torch anyone.
-- Kentucky is a fade — cold streak makes them vulnerable to Santa Clara (10)
-- **Region winner: Michigan**
+- Michigan to the Final Four, but Iowa State's pressure defense is the biggest threat (specifically targets Michigan's ball-handling weakness without Cason)
+- Akron over Texas Tech (12 over 5 — consensus upset pick of the tournament). Then Akron OVER Alabama in R2 (Holloway arrest + Akron's 3PT shooting vs Alabama's 230th-ranked 3PT defense = nightmare for Bama)
+- Santa Clara over Kentucky (data strongly supports — SCU is KenPom #35 with the 23rd most efficient offense)
+- Saint Louis over Georgia (SLU 28-5, 2nd in 3PT%, this is a genuine coin flip and SLU has the better profile)
+- **Region winner: Michigan** (but more vulnerable than any other region winner due to Cason injury)
 
 ---
 
@@ -239,10 +245,11 @@ Since the pod system was introduced in 2002, **teams playing first-round games i
 - Nebraska (4-seed) has NEVER won an NCAA Tournament game in program history — upset risk vs Troy
 
 **Recommended picks:**
-- VCU over North Carolina (11 over 6 upset)
-- Texas A&M over Saint Mary's (10 over 7)
-- Houston makes the Elite Eight with home-court edge
-- **Region winner: Houston** (home court + elite defense + coaching = title contender)
+- VCU over North Carolina (11 over 6 upset — even stronger now: UNC is WITHOUT Caleb Wilson, All-ACC first team, out for season with broken thumb. UNC is 5-3 without him, on a 2-game losing streak, and LAST in the ACC in 3PT defense at 38.5%)
+- Saint Mary's over Texas A&M is actually the CHALK pick (SMC is favored by 2.5-3.5 pts). A&M went 0-4 vs ranked opponents. Flip our earlier pick.
+- McNeese is more dangerous than expected — won 10 straight, leads nation in turnover rate, steal rate, and defensive pressure (19 TO forced/game). Vanderbilt is a strong lean, not a lock.
+- Houston makes the Elite Eight with home-court edge at Toyota Center (confirmed)
+- **Region winner: Houston** (home court + elite defense + coaching = title contender. This is the single strongest pick in the bracket.)
 
 ---
 
@@ -251,152 +258,167 @@ Since the pod system was introduced in 2002, **teams playing first-round games i
 ### EAST REGION
 
 **Round 1:**
-| Game | Pick | Score Confidence |
-|------|------|-----------------|
+| Game | Pick | Rationale |
+|------|------|-----------|
 | (1) Duke vs (16) Siena | **Duke** | Lock |
-| (8) Ohio State vs (9) TCU | **TCU** | Coin flip — TCU has more upside |
-| (5) St. John's vs (12) Northern Iowa | **Northern Iowa** | 12-over-5 upset — UNI's 3rd-slowest tempo + 24th-best defense neutralizes SJU |
-| (4) Kansas vs (13) Cal Baptist | **Kansas** | Kansas survives despite Cal Baptist's home-state edge |
-| (6) Louisville vs (11) South Florida | **South Florida** | USF won 17 of 19, Louisville 4-8 in Q1 games |
-| (3) Michigan State vs (14) North Dakota State | **Michigan State** | Lock |
-| (7) UCLA vs (10) UCF | **UCF** | UCLA's top 2 scorers injured; UCF takes advantage |
+| (8) Ohio State vs (9) TCU | **TCU** | Coin flip — TCU's defense (top 25 adj. eff.) and physicality give them the edge. Ohio State has Bruce Thornton (20.3 PPG) but allows 52.4% from two. |
+| (5) St. John's vs (12) Northern Iowa | **St. John's** | SJU is -10.5 with 85% BPI win probability. Won Big East reg season AND tourney (beat UConn by 20). Too strong despite UNI's tempo mismatch. |
+| (4) Kansas vs (13) Cal Baptist | **Kansas** | Kansas survives. Peterson is cleared and has played 7 straight. CBU's proximity to San Diego isn't enough. |
+| (6) Louisville vs (11) South Florida | **South Florida** | USF won 17 of 19. Louisville 4-8 in Q1. Caveat: USF's streak was against avg NET 158 opponents — this is a toss-up, not a lock. |
+| (3) Michigan State vs (14) North Dakota State | **Michigan State** | Lock — Izzo is 41-17 in R1. |
+| (7) UCLA vs (10) UCF | **UCLA** | CORRECTED: Bilodeau (17.6 PPG) and Dent (13.5 PPG, 7.6 APG) are EXPECTED TO PLAY — sat out Big Ten tourney as precaution only. UCLA beat 3 top-10 teams this season. |
 | (2) UConn vs (15) Furman | **UConn** | Lock |
 
 **Round 2:**
 | Game | Pick |
 |------|------|
-| (1) Duke vs (9) TCU | **Duke** |
-| (4) Kansas vs (12) Northern Iowa | **Kansas** — UNI's Cinderella ends here |
-| (11) South Florida vs (3) Michigan State | **Michigan State** |
-| (10) UCF vs (2) UConn | **UConn** |
+| (1) Duke vs (9) TCU | **Duke** — Boozer too dominant |
+| (5) St. John's vs (4) Kansas | **St. John's** — Pitino in March, SJU underseeded, Kansas shaky (lost 4 of last 5). Peterson's conditioning is a concern. |
+| (11) South Florida vs (3) Michigan State | **Michigan State** — Izzo's defense is a level USF hasn't faced |
+| (7) UCLA vs (2) UConn | **UConn** — Hurley's championship pedigree in R2 |
 
 **Sweet 16:**
 | Game | Pick |
 |------|------|
-| (1) Duke vs (4) Kansas | **Duke** — talent wins |
-| (3) Michigan State vs (2) UConn | **UConn** — Hurley's championship DNA |
+| (1) Duke vs (5) St. John's | **Duke** — Boozer + depth advantage. But St. John's pushed them here. |
+| (3) Michigan State vs (2) UConn | **UConn** — deeper tournament pedigree under Hurley |
 
 **Elite Eight:**
 | Game | Pick |
 |------|------|
-| (1) Duke vs (2) UConn | **UConn** — Duke's injuries catch up to them |
+| (1) Duke vs (2) UConn | **Duke** — 32-2, Cameron Boozer is the best player in the tournament. Even without Foster, Duke has enough. 39 of 60 ESPN experts agree. |
 
 ---
 
 ### WEST REGION
 
 **Round 1:**
-| Game | Pick | Score Confidence |
-|------|------|-----------------|
+| Game | Pick | Rationale |
+|------|------|-----------|
 | (1) Arizona vs (16) LIU | **Arizona** | Lock |
-| (8) Villanova vs (9) Utah State | **Utah State** | Favored -2.5 despite lower seed, 6-0 neutral site |
-| (5) Wisconsin vs (12) High Point | **Wisconsin** | High Point is hot (14-game streak) but Badgers are solid |
-| (4) Arkansas vs (13) Hawaii | **Arkansas** — SEC tourney champs | Hawaii hasn't played a ranked opponent all year |
-| (6) BYU vs (11) Texas/NC State | **Texas** | NC State dropped last 4, but Texas from First Four has momentum |
-| (3) Gonzaga vs (14) Kennesaw State | **Gonzaga** | Lock |
-| (7) Miami (FL) vs (10) Missouri | **Missouri** | Playing in St. Louis = home game, quality wins over FL/Vandy/Tenn |
+| (8) Villanova vs (9) Utah State | **Utah State** | 6-0 neutral site, swept Mountain West, most experienced roster. KenPom and models agree. |
+| (5) Wisconsin vs (12) High Point | **Wisconsin** | HP averages 90 PPG and forces 16.4 TO/game, but Wisconsin has 4 top-10 KenPom wins and is the 4th-best 3PT team nationally. Wisconsin's ceiling is elite. Lean Wisconsin, but HP is live. |
+| (4) Arkansas vs (13) Hawaii | **Arkansas** | SEC tourney champs, Acuff is elite. But Hawaii's unique no-help defense + Arkansas fatigue (didn't get home from SEC tourney until 2 AM Monday, playing in Portland) makes this riskier than it looks. |
+| (6) BYU vs (11) Texas | **BYU** | CORRECTED: AJ Dybantsa averaging 25.3 PPG (nation's leading scorer), broke Kevin Durant's Big 12 tourney scoring record (93 pts in 3 games). BYU favored 2.5-3.3. Texas is 18-14 and barely survived NC State. Dybantsa is a one-man wrecking crew. |
+| (3) Gonzaga vs (14) Kennesaw State | **Gonzaga** | Lock — but Braden Huff (knee) is doubtful for R1-R2. Kennesaw lost their leading scorer (Cottle) to game-fixing suspension. |
+| (7) Miami (FL) vs (10) Missouri | **Missouri** | Playing in St. Louis = home game. 3-4 pt home-court advantage nearly erases KenPom gap. Quality wins over Florida, Vanderbilt, Tennessee. |
 | (2) Purdue vs (15) Queens | **Purdue** | Lock |
 
 **Round 2:**
 | Game | Pick |
 |------|------|
-| (1) Arizona vs (9) Utah State | **Arizona** |
-| (4) Arkansas vs (11) Texas | **Arkansas** — SEC tourney momentum |
-| (3) Gonzaga vs (10) Missouri | **Gonzaga** |
-| (2) Purdue vs (5) Wisconsin | **Purdue** — Big Ten tourney champs, KenPom #2 offense |
+| (1) Arizona vs (9) Utah State | **Arizona** — size and physicality overwhelm |
+| (4) Arkansas vs (6) BYU | **Arkansas** — SEC tourney momentum, Acuff's scoring is matchup-proof. Dybantsa is dangerous but Arkansas has more depth. |
+| (3) Gonzaga vs (10) Missouri | **Gonzaga** — Missouri's St. Louis edge disappears in Portland for R2 |
+| (2) Purdue vs (5) Wisconsin | **Wisconsin** — UPSET. Purdue's defense collapsed to #88 nationally late in season. Wisconsin's elite 3PT shooting (4th nationally) exploits Purdue's worst weakness (11th-worst 3PT defense in the field). Wisconsin has 4 top-10 KenPom wins. Multiple analysts flag this. |
 
 **Sweet 16:**
 | Game | Pick |
 |------|------|
-| (1) Arizona vs (4) Arkansas | **Arizona** — too complete on both ends |
-| (3) Gonzaga vs (2) Purdue | **Arizona-bound:** **Purdue** — offense wins in a shootout |
+| (1) Arizona vs (4) Arkansas | **Arizona** — Bradley's point-of-attack defense contains Acuff better than most. Arizona too complete. |
+| (3) Gonzaga vs (5) Wisconsin | **Gonzaga** — 30-3, historically lethal in March. Wisconsin's inconsistency (why they're a 5-seed) catches up. |
 
 **Elite Eight:**
 | Game | Pick |
 |------|------|
-| (1) Arizona vs (2) Purdue | **Arizona** — defense clamps Purdue's offense |
+| (1) Arizona vs (3) Gonzaga | **Arizona** — too big, too physical, too balanced. Gonzaga without Huff lacks interior presence. |
 
 ---
 
 ### MIDWEST REGION
 
 **Round 1:**
-| Game | Pick | Score Confidence |
-|------|------|-----------------|
-| (1) Michigan vs (16) UMBC/Howard | **Michigan** | Lock |
-| (8) Georgia vs (9) Saint Louis | **Georgia** | Slight edge |
-| (5) Texas Tech vs (12) Akron | **Akron** | 12-over-5 upset — 29-5, 58.5% eFG, 13.4% TO rate, ideal upset profile |
-| (4) Alabama vs (13) Hofstra | **Alabama** | Hofstra is dangerous (11 of last 12) but Bama survives R1 |
-| (6) Tennessee vs (11) Miami (OH)/SMU | **Tennessee** | Neither First Four team is strong enough |
-| (3) Virginia vs (14) Wright State | **Virginia** | Lock |
-| (7) Kentucky vs (10) Santa Clara | **Santa Clara** | UK lost 5 of last 7 — ice cold, classic fade |
-| (2) Iowa State vs (15) Tennessee State | **Iowa State** | Lock |
+| Game | Pick | Rationale |
+|------|------|-----------|
+| (1) Michigan vs (16) UMBC/Howard | **Michigan** | Lock — 31.5-pt favorite. Lendeborg (ankle) says he'll play. |
+| (8) Georgia vs (9) Saint Louis | **Saint Louis** | CHANGED: SLU is 28-5, 2nd nationally in 3PT% (40.1%), won A-10 regular season. Georgia was 10-8 in SEC. ESPN BPI: 50.9% Georgia — this is a true coin flip, and SLU's shooting upside wins it. |
+| (5) Texas Tech vs (12) Akron | **Akron** | Consensus upset pick of the tournament. Tech lost JT Toppin (21.8 PPG, 10.8 RPG) to ACL, lost 3 straight incl. 22-pt blowout. Akron 29-5, 10-game win streak, three players at 40%+ from 3. 5 of 10 SBR experts picked this. |
+| (4) Alabama vs (13) Hofstra | **Alabama** | Hofstra is very dangerous (11 of last 12), and Holloway's arrest makes this closer. But Philon (21.7 PPG) + 91.7 PPG offense should survive R1. Barely. |
+| (6) Tennessee vs (11) Miami (OH)/SMU | **Tennessee** | Miami OH is 31-1 (undefeated regular season) and deserves respect, but Tennessee's talent gap holds. |
+| (3) Virginia vs (14) Wright State | **Virginia** | Strong favorite, but NOT a lock — one expert picked Wright State as biggest upset of the tournament. Virginia's slow tempo + 3PT reliance is upset-prone (lost to 16-seed UMBC in 2018). |
+| (7) Kentucky vs (10) Santa Clara | **Santa Clara** | UK lost 5 of last 7, only 5-11 in Q1, only 2.5-pt favorite. SCU is KenPom #35, 23rd most efficient offense, 17th in forcing turnovers. Data strongly supports this. |
+| (2) Iowa State vs (15) Tennessee State | **Iowa State** | Lock — won by 49 in Big 12 tourney |
 
 **Round 2:**
 | Game | Pick |
 |------|------|
-| (1) Michigan vs (8) Georgia | **Michigan** |
-| (4) Alabama vs (12) Akron | **Alabama** — talent gap too large, Akron's run ends |
-| (6) Tennessee vs (3) Virginia | **Virginia** |
-| (10) Santa Clara vs (2) Iowa State | **Iowa State** |
+| (1) Michigan vs (9) Saint Louis | **Michigan** — #1 defense smothers SLU's shooting |
+| (4) Alabama vs (12) Akron | **Akron** — UPSET. Alabama without Holloway (16.8 PPG, 44% from 3) is down to 9 scholarship players. Akron's three 40%+ 3PT shooters vs Alabama's 230th-ranked 3PT defense is a nightmare matchup for Bama. |
+| (6) Tennessee vs (3) Virginia | **Virginia** — slow tempo grinds Tennessee down |
+| (10) Santa Clara vs (2) Iowa State | **Iowa State** — Momcilovic's 49.6% from 3 + ball-pressure defense is too much |
 
 **Sweet 16:**
 | Game | Pick |
 |------|------|
-| (1) Michigan vs (4) Alabama | **Michigan** — #1 defense shuts down Bama's offense |
-| (3) Virginia vs (2) Iowa State | **Iowa State** — both fit Championship Formula, ISU is more dynamic |
+| (1) Michigan vs (12) Akron | **Michigan** — Akron's Cinderella ends here. Michigan's #1 defense is a different level than anything Akron has faced. |
+| (3) Virginia vs (2) Iowa State | **Iowa State** — ball pressure and transition offense is a bad matchup for Virginia's slow tempo |
 
 **Elite Eight:**
 | Game | Pick |
 |------|------|
-| (1) Michigan vs (2) Iowa State | **Michigan** — #1 defense prevails |
+| (1) Michigan vs (2) Iowa State | **Michigan** — #1 defense prevails, but this is the closest Elite 8 game. Iowa State's pressure specifically targets Michigan's ball-handling weakness without Cason. If Cadeau has an off night, Iowa State wins. |
 
 ---
 
 ### SOUTH REGION
 
 **Round 1:**
-| Game | Pick | Score Confidence |
-|------|------|-----------------|
+| Game | Pick | Rationale |
+|------|------|-----------|
 | (1) Florida vs (16) Prairie View A&M/Lehigh | **Florida** | Lock |
-| (8) Clemson vs (9) Iowa | **Iowa** | Most underseeded team per KenPom/Torvik/Haslametrics, favored -2.5 |
-| (5) Vanderbilt vs (12) McNeese | **Vanderbilt** | KenPom #12, too strong |
-| (4) Nebraska vs (13) Troy | **Nebraska** | But watch out — Nebraska has NEVER won a tourney game |
-| (6) North Carolina vs (11) VCU | **VCU** | 16 of last 17 wins, strong coaching pedigree |
+| (8) Clemson vs (9) Iowa | **Iowa** | Most underseeded team per KenPom (#25), Torvik, AND Haslametrics. Clemson lost Carter Welling (ACL) in ACC tourney and went 4-6 in last 10. Models agree: Iowa is the better team. |
+| (5) Vanderbilt vs (12) McNeese | **Vanderbilt** | Strong lean, but NOT a lock. McNeese won 10 straight, leads nation in turnover rate + steal rate (forces 19 TO/game). If Vanderbilt gets careless with the ball, McNeese's pressure creates chaos. Vandy's KenPom #12 status should hold, but respect McNeese. |
+| (4) Nebraska vs (13) Troy | **Nebraska** | Nebraska has NEVER won a tourney game (0-8 all-time). But Troy lost 4 starters from last year and is a true 13-seed. Nebraska breaks the curse. |
+| (6) North Carolina vs (11) VCU | **VCU** | UNC is WITHOUT Caleb Wilson (All-ACC first team, broken thumb, out for season). UNC is 5-3 without him, on a 2-game losing streak, and LAST in ACC in 3PT defense (38.5% allowed). VCU won 16 of last 17 and swept the A-10 tourney. This is the most data-supported upset in the bracket. |
 | (3) Illinois vs (14) Penn | **Illinois** | Lock — #1 offense nationally |
-| (7) Saint Mary's vs (10) Texas A&M | **Texas A&M** | SMC only 1-4 in Q1, gave up 96 to Vandy |
+| (7) Saint Mary's vs (10) Texas A&M | **Saint Mary's** | CORRECTED: SMC is actually favored by 2.5-3.5 pts. They went 27-5, lead nation in FT%, are 12th-tallest team in country, top-10 rebound margin. A&M went 0-4 vs ranked opponents. Our original pick was swimming against the current. |
 | (2) Houston vs (15) Idaho | **Houston** | Lock |
 
 **Round 2:**
 | Game | Pick |
 |------|------|
-| (1) Florida vs (9) Iowa | **Florida** — too much size |
-| (5) Vanderbilt vs (4) Nebraska | **Vanderbilt** — Nebraska's tourney curse continues |
-| (11) VCU vs (3) Illinois | **Illinois** — VCU's run ends against #1 offense |
-| (10) Texas A&M vs (2) Houston | **Houston** |
+| (1) Florida vs (9) Iowa | **Florida** — Iowa is KenPom #25 and could make it interesting, but Florida's frontcourt is overwhelming |
+| (5) Vanderbilt vs (4) Nebraska | **Vanderbilt** — KenPom #12, already beat Florida and Tennessee in SEC tourney. Nebraska's tourney curse weighs heavy. Vandy is the best dark horse in the bracket at +7500. |
+| (11) VCU vs (3) Illinois | **Illinois** — VCU's run ends against the #1 offense in the country |
+| (7) Saint Mary's vs (2) Houston | **Houston** — elite defense smothers Saint Mary's |
 
 **Sweet 16:**
 | Game | Pick |
 |------|------|
-| (1) Florida vs (5) Vanderbilt | **Florida** — revenge for SEC tourney loss |
-| (3) Illinois vs (2) Houston | **Houston** — home court advantage + elite defense |
+| (1) Florida vs (5) Vanderbilt | **Florida** — revenge for SEC tourney loss. But Vanderbilt (KenPom #12) is the most likely team to bust this bracket. They already beat Florida once. |
+| (3) Illinois vs (2) Houston | **Houston** — home court at Toyota Center + elite defense. Illinois has the #1 offense but their defense ranks outside the top 25, which is a problem against Houston's grind-it-out style. |
 
 **Elite Eight:**
 | Game | Pick |
 |------|------|
-| (1) Florida vs (2) Houston | **Houston** — playing at HOME in Houston, Sampson's defense smothers Gators |
+| (1) Florida vs (2) Houston | **Houston** — playing at HOME at Toyota Center. Kelvin Sampson's defense + home crowd + championship game experience from last year. Multiple experts (Seth Davis, CBS analysts) pick Houston specifically because of this advantage. |
 
 ---
 
 ### FINAL FOUR (San Antonio)
 | Semifinal | Pick |
 |-----------|------|
-| (2) UConn vs (1) Arizona | **Arizona** — most complete team, healthiest roster |
-| (1) Michigan vs (2) Houston | **Michigan** — #1 defense neutralizes Houston |
+| (1) Duke vs (1) Arizona | **Arizona** — healthiest roster, most balanced team. Duke without Foster has a shortened rotation that will be exposed after 4 games. Arizona's elite defense (Top 3) contains Boozer better than anyone Duke has faced. |
+| (1) Michigan vs (2) Houston | **Michigan** — battle of elite defenses. Michigan's #1 KenPom defense and 7'2" Aday Mara give them the edge in an ugly, low-scoring grind. Houston loses its home-court edge on a neutral floor in San Antonio. |
 
 ### NATIONAL CHAMPIONSHIP
 ## **Arizona over Michigan**
+
 Arizona's elite balance (Top 5 offense + Top 3 defense) and fully healthy roster overcomes Michigan's #1 defense. The Wildcats' size and physicality — plus 12 ranked wins — make them the most battle-tested and complete team in the field.
+
+**Known risks with this pick:**
+- Tommy Lloyd is 1-3 in the Sweet 16 at Arizona (lost as 1-seed in '22, as 2-seed in '23 and '24). This pattern is real.
+- Arizona is 358th in 3PT attempts and 333rd in 3PT makes. When defenses tighten in March, perimeter shooting becomes critical.
+- Arizona starts 3 freshmen. No team with 3 freshman starters playing 700+ minutes has won a title since 1997 Arizona.
+- Poor free throw shooting (17-of-31 in Big 12 tourney game; Peat shoots 59.7%).
+
+**Why we're picking them anyway:**
+- 33 of 60 ESPN experts pick Arizona as champion — the most of any team.
+- KenPom Top 5 offense AND Top 3 defense (Championship Formula).
+- 12 ranked wins — tied for most ever entering a tournament.
+- Big 12 regular season AND tournament champion (3 of last 4 national champs won their conference tourney).
+- Healthiest top team — unlike Duke (Foster), Michigan (Cason), or Gonzaga (Huff).
+- The cleanest regional path in the West.
 
 ---
 
@@ -405,20 +427,22 @@ Arizona's elite balance (Top 5 offense + Top 3 defense) and fully healthy roster
 ### First Round Upsets to Pick
 | Pick | Over | Rationale |
 |------|------|-----------|
-| 12 Akron | 5 Texas Tech | 29-5, 7th nationally in scoring, 58.5% eFG, 13.4% TO rate — ideal upset profile |
-| 11 South Florida | 6 Louisville | Veteran roster, every year since 2005 has had an 11-over-6 |
-| 11 VCU | 6 North Carolina | 16 of last 17 wins, UNC is vulnerable |
-| 10 Missouri | 7 Miami (FL) | Location advantage in St. Louis, quality wins |
-| 10 Texas A&M | 7 Saint Mary's | SMC only 1-4 in Quad 1, gave up 96 pts to Vandy |
-| 9 Iowa | 8 Clemson | Most underseeded team per KenPom/Torvik/Haslametrics, favored -2.5 |
-| 9 Utah State | 8 Villanova | 6-0 neutral site, swept Mountain West, favored -2.5 |
+| 12 Akron | 5 Texas Tech | Consensus upset pick. Tech lost Toppin (ACL), lost 3 straight. Akron 29-5, three 40%+ 3PT shooters, 10-game win streak. |
+| 11 South Florida | 6 Louisville | USF won 17 of 19. Louisville 4-8 in Q1. Caveat: USF's schedule was weak (avg opponent NET 158). |
+| 11 VCU | 6 North Carolina | Best-supported upset in bracket. UNC missing Wilson (All-ACC, broken thumb), last in ACC 3PT defense. VCU won 16 of 17. |
+| 10 Missouri | 7 Miami (FL) | Playing in St. Louis = home game. 3-4 pt advantage nearly erases KenPom gap. |
+| 10 Santa Clara | 7 Kentucky | UK lost 5 of 7, only 5-11 in Q1. SCU is KenPom #35, 23rd most efficient offense, 17th in forcing turnovers. |
+| 9 Saint Louis | 8 Georgia | SLU 28-5, 2nd nationally in 3PT% (40.1%). Georgia 10-8 in SEC. True coin flip — SLU's shooting wins it. |
+| 9 Iowa | 8 Clemson | Most underseeded team per 3 independent models. Clemson lost Welling (ACL), went 4-6 in last 10. |
+| 9 Utah State | 8 Villanova | Swept Mountain West, 6-0 neutral site. Models agree. |
 
 ### Later Round Upsets
 | Pick | Over | Round | Rationale |
 |------|------|-------|-----------|
-| UConn (2) | Duke (1) | Elite Eight | Duke's injuries + UConn championship DNA |
-| Houston (2) | Florida (1) | Elite Eight | Houston's home court in Sweet 16/E8 |
-| Alabama loses | Round 2 | R2 | Worst defense in 56 years, lost conf tourney opener |
+| Houston (2) | Florida (1) | Elite Eight | Houston playing at HOME at Toyota Center + elite defense + Sampson |
+| Akron (12) | Alabama (4) | Round 2 | Holloway arrested (16.8 PPG gone), Bama down to 9 players. Akron's 3PT shooting vs Bama's 230th-ranked 3PT defense. |
+| Wisconsin (5) | Purdue (2) | Round 2 | Purdue's defense collapsed to #88. Wisconsin's elite 3PT shooting (4th nationally) exploits their biggest weakness. |
+| St. John's (5) | Kansas (4) | Round 2 | SJU underseeded, won Big East double. Kansas lost 4 of last 5, Peterson conditioning concerns. |
 
 ---
 
@@ -489,11 +513,26 @@ Multiple models (Nate Silver's COOPER ratings, KenPom, BartTorvik TourneyCast, E
 - UCF — lost 4 of last 5
 - Louisville — 4-8 in final 12 games vs. Quad 1 opponents
 
-### Kansas Injury Watch
-Kansas 4-seed Darryn Peterson (19.9 PPG, projected #1 NBA pick) missed 11 games due to multiple injuries — his conditioning and availability are significant concerns.
+### BREAKING: Alabama's Aden Holloway Arrested
+Alabama's Aden Holloway (16.8 PPG, 44% from 3 — their #2 scorer) was arrested on two felony drug charges. He has been suspended indefinitely and removed from campus. Alabama enters the tournament with only 9 scholarship players, their worst defense in 56 years, and now a massive hole in their backcourt. This makes Alabama one of the most vulnerable 4-seeds in recent memory.
 
-### UCLA Injury Watch
-UCLA's top two scorers are injured heading into the tournament — makes them vulnerable to UCF (10-seed) despite UCF's own cold streak.
+### Kansas Injury Watch
+Kansas 4-seed Darryn Peterson (19.9 PPG, projected #1 NBA pick) missed 11 games due to multiple injuries — his conditioning and availability are significant concerns. He is cleared to play and has gone 7 straight games without issues, but ESPN's Seth Greenberg flagged concerns about his engagement and energy. Kansas finished losing 4 of their last 5.
+
+### UCLA Injury Update
+UCLA's Tyler Bilodeau (knee strain) and Donovan Dent (calf strain) were both held out of the Big Ten Tournament as a precaution. Both are EXPECTED TO PLAY vs UCF. UCLA wins this game at full strength — Dent had the only triple-double in Big Ten Tournament history and had 78 assists with just 6 turnovers over his last 8 games.
+
+### BYU Injury Watch
+BYU lost both Richie Saunders AND Dawson Baker to torn ACLs this season. They went 7-10 in their final 17 games. But AJ Dybantsa (25.3 PPG, nation's leading scorer) is a one-man army — he broke Kevin Durant's Big 12 tourney scoring record with 93 points in 3 games.
+
+### Gonzaga Injury Watch
+Gonzaga's Braden Huff (knee) is doubtful for the first two rounds. This limits their interior depth and could matter if they advance deep.
+
+### UNC Missing Caleb Wilson
+North Carolina is without Caleb Wilson (All-ACC first team, broken thumb, out for season). UNC is 5-3 without him and on a 2-game losing streak. They also rank LAST in the ACC in 3-point defense (allowing 38.5%). Every tournament game is on a neutral court, and all 8 of UNC's losses this season came on the road/neutral.
+
+### Clemson's Carter Welling Out
+Clemson lost Carter Welling (10.2 PPG, 5.4 RPG) to an ACL tear in the ACC Tournament, further weakening their chances against Iowa.
 
 ### Unusual 2026 Trend
 The top six teams are all **defense-first** — this is unusual historically. Past champions have typically been offense-first. This makes Illinois (KenPom #1 offense) and Purdue (KenPom #2 offense) interesting contrarian picks, as the historical pattern slightly favors elite offenses in single-elimination formats.
