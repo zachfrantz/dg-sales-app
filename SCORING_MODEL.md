@@ -51,18 +51,18 @@ Each factor earns or deducts points. The final score maps to an action:
 
 | Condition | Points | Source |
 |-----------|--------|--------|
-| Your side gets <20% of public spread bets | +3 | Sports Insights: 11-1 ATS in 2017 tournament |
+| Your side gets <20% of public spread bets | +3 | Sports Insights: Contrarian sides at extreme levels cover at 60%+ |
 | Your side gets <40% of public spread bets | +2 | Sports Insights: 19-9 ATS in 2017 tournament |
 | Your side gets <50% of public spread bets + has more $ | +1 | Action Network: Sharp money indicator |
-| Your side gets 75%+ of public spread bets | -2 | Action Network: 31-44-2 ATS historically |
-| Your side gets 80%+ of public spread bets | -3 | Sports Insights: 2-11 ATS since 2005 |
+| Your side gets 75%+ of public spread bets | -2 | Covers.com: 31-44-2 ATS historically |
+| Your side gets 80%+ of public spread bets | -3 | Directionally supported by Sports Insights contrarian data (see SOURCES.md Flag 1) |
 
 ### Factor S4: Reverse Line Movement
 **Weight: 0 to +2 points**
 
 | Condition | Points | Source |
 |-----------|--------|--------|
-| 60%+ of bets on other side, but line moved toward YOUR side | +2 | Sports Insights: 272-203 (57.3%), +42.04 units |
+| 60%+ of bets on other side, but line moved toward YOUR side | +2 | Sports Insights / Action Network: Well-established sharp money indicator (see SOURCES.md Flag 2) |
 | Bet % and dollar % diverge (30% bets, 60% dollars on your side) | +1 | Action Network: Sharp money indicator |
 | Line moved AWAY from your side with heavy public on other side | 0 | Neutral — expected movement |
 
@@ -71,14 +71,14 @@ Each factor earns or deducts points. The final score maps to an action:
 
 | Condition | Points | Source |
 |-----------|--------|--------|
-| Elite Eight underdog | +3 | VSiN: 33-21-2 ATS; small favorites 1-10-1 ATS |
+| Elite Eight underdog | +3 | Action Network: 33-21-2 ATS; VSiN: small favorites 3-10-1 ATS (≤4 pts), 17-33-1 since 1998 |
 | Sweet 16 double-digit seed | +3 | VSiN: 16-7-1 ATS (69.6%) since 2011 |
 | First Four underdog | +1 | VSiN: 24-19 ATS (55.8%) |
 | Round of 64, team lost conference championship game | +1 | Action Network: 46-34-2 ATS (57.5%) |
 | Round of 32, your side won R1 by 20+ | -2 | VSiN: 25-44-1 ATS (36.2%) — blowout regression |
 | Round of 32, 14-seed that upset in R1 | -3 | VSiN: 0-10 SU and ATS in R2 |
 | Sweet 16 favorite of 5+ points | -2 | VSiN: 7-15 ATS (31.8%) since 2017 |
-| Elite Eight small favorite (≤4 pts) | -3 | Action Network: 1-10-1 ATS recently |
+| Elite Eight small favorite (≤4 pts) | -3 | VSiN: 3-10-1 ATS recently, 17-33-1 since 1998 |
 
 ### Factor S6: KenPom Profile
 **Weight: -1 to +2 points**
@@ -198,7 +198,7 @@ These override positive scores. If ANY red flag is present, deduct the listed po
 
 | Red Flag | Deduction | Source |
 |----------|-----------|--------|
-| Your side gets 80%+ of public bets AND no reverse line movement | -3 | Sports Insights: 2-11 ATS |
+| Your side gets 80%+ of public bets AND no reverse line movement | -3 | Directionally supported by Sports Insights / Covers.com contrarian data |
 | 14-seed that won in Round 1, now in Round 2 | -4 | VSiN: 0-10 SU and ATS |
 | Your side played 5 games in 5 days in conference tournament | -3 | Action Network: Only 1 champion ever (UConn 2011) |
 | Your side's top scorer accounts for 38%+ of total offense | -2 | Covers.com: One-man teams underperform |

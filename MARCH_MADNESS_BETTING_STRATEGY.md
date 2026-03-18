@@ -186,7 +186,7 @@ Nearly every national champion falls within a specific AdjEM vs. Adjusted Tempo 
 
 ### The 80% Rule
 
-**Teams receiving 80%+ of spread bets are 2-11 ATS since 2005.**
+**Teams receiving 75%+ of spread bets are 31-44-2 ATS.** At extreme levels (80%+), the fade is even stronger, though exact records at that threshold are harder to independently verify (see SOURCES.md Flag 1).
 
 Teams receiving 75%+ of spread bets: 31-44-2 ATS. This is the single clearest contrarian signal in March Madness.
 
@@ -223,8 +223,8 @@ Duke, Kansas, Kentucky, North Carolina attract disproportionate public money. Bo
 
 When 75% of bets go to Team A but the line moves toward Team B, sharp money is on Team B.
 
-- Historical RLM performance (60%+ on one side + 1+ point RLM): **272-203 (57.3%)** for +42.04 units
-- This is one of the most reliable signals in sports betting
+- RLM is a well-established sharp money indicator documented across Sports Insights and Action Network
+- When you see the line move against heavy public action, sharps are driving it — this is one of the most reliable signals in sports betting
 
 ### Closing Line Value (CLV)
 
@@ -307,7 +307,7 @@ When 75% of bets go to Team A but the line moves toward Team B, sharp money is o
 
 ### Elite Eight
 - **THE underdog round.** Best round for dogs in the entire tournament.
-- Small favorites (4 pts or fewer): 1-10-1 ATS — catastrophic for bettors
+- Small favorites (4 pts or fewer): 3-10-1 ATS recently, 17-33-1 since 1998 — catastrophic for bettors
 - 1-seeds: 32-25 SU but 23-30-4 ATS (43.4%) since 2001
 - **If you can pick the winner:** Outright winners are 61-5-2 ATS (92.4%) since 2006
 - **Totals:** THE over round: 87-63-2 (58%) since 2001
@@ -752,14 +752,14 @@ Off-court issues produce measurable line movements and are among the most exploi
 
 ### Tier 3: Supporting Edges (1 unit)
 
-15. **Reverse line movement plays** — 57.3% historically
+15. **Reverse line movement plays** — well-established sharp money indicator
 16. **ACC teams as pick-em or small dogs** — 79.2% ATS
 17. **Fade SEC teams as low seeds** — 41.2% ATS
 18. **Back teams playing in home state** — 80%+ SU since 2002 (Florida in Tampa, Duke in Greenville)
 19. **Championship game under** — 55.2%
 20. **Bounce-back teams** from prior year's disappointing exit
 21. **DD seeds with rebounding margin +5 & top-40 def. efficiency** — 58% ATS
-22. **Fade brand-name programs with 80%+ public tickets** — 2-11 ATS since 2005
+22. **Fade brand-name programs with 75%+ public tickets** — 31-44-2 ATS
 23. **Check referee crew assignments** — 5+ foul swing between high/low-foul crews affects totals
 24. **Monitor late injury reports (2 hrs before tip)** — "questionable" designations create value windows
 
@@ -837,7 +837,7 @@ SWEET 16:
 ELITE EIGHT:
   ✅ Underdogs (best round for dogs)
   ✅ Overs (58% since 2001)
-  ❌ Small favorites ≤4 pts (1-10-1 ATS)
+  ❌ Small favorites ≤4 pts (3-10-1 ATS, 17-33-1 since 1998)
   ❌ 1-seeds (43.4% ATS)
 
 CHAMPIONSHIP:
@@ -845,7 +845,7 @@ CHAMPIONSHIP:
   ⚖️ Spread is meaningless (19-19 ATS)
 
 ALWAYS CHECK:
-  ✅ Reverse line movement (57.3%)
+  ✅ Reverse line movement (established sharp indicator)
   ✅ Coaches: Hurley, Enfield, Painter
   ✅ ACC as small dogs (79.2% ATS)
   ✅ Home state teams (80%+ SU)
@@ -855,7 +855,7 @@ ALWAYS CHECK:
   ❌ SEC as low seeds (41.2% ATS)
   ❌ Mountain West (32.2% ATS)
   ❌ Conference tournament fatigue (4+ games in 4 days)
-  ❌ Blue-blood brand tax (80%+ public = 2-11 ATS)
+  ❌ Blue-blood brand tax (75%+ public = 31-44-2 ATS)
 
 BEFORE EVERY BET:
   📋 Check RefMetrics.com for crew assignments (affects totals)
