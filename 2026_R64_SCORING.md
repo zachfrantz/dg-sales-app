@@ -113,17 +113,18 @@
 | T1: Tournament game | +1 | Under | |
 | **TOTALS TOTAL** | **+1** | Under | **NO BET** |
 
-### Game E5: (6) Louisville -6.5 vs (11) South Florida
+### Game E5: (6) Louisville -4.5 vs (11) South Florida | Total: 165.5 | Buffalo, 1:30 PM ET
 
 | Factor | Score | Side | Notes |
 |--------|-------|------|-------|
-| S10: Mikel Brown Jr. day-to-day | +1.5 | Against Louisville | 18.2 PPG, hasn't played since 2/28 |
-| S7: No coaching edge | 0 | — | |
-| **NET SPREAD TOTAL** | **+1.5** | USF | **NO BET** (below +3) |
+| S10: **Mikel Brown Jr. OFFICIALLY OUT** | **+3** | Against Louisville | 18.2 PPG, 4.7 APG. Louisville 7-5 without him vs 16-5 with him. Ruled out 3/18. |
+| S2: FT% — spread is 4.5 (≤6) | TBD | — | Need Louisville/USF FT% |
+| **SPREAD TOTAL** | **+3** | USF +4.5 | **BET 1u** |
 | T1: Tournament game | +1 | Under | |
+| T1: Total 165.5 (HIGH) | 0 | — | No under signal at this total |
 | **TOTALS TOTAL** | **+1** | Under | **NO BET** |
 
-> **NOTE:** If Brown is officially ruled OUT, S10 becomes +3 and USF +6.5 becomes a **BET 1u**. Monitor 9 PM availability report.
+> **CONFIRMED:** Brown officially ruled out March 18. Louisville is 7-5 without him vs 16-5 with him. This was our conditional bet — it's now LIVE.
 
 ### Game E6: (3) Michigan State -16.5 vs (14) North Dakota State
 
@@ -146,17 +147,17 @@
 | T1: Tournament game | +1 | Under | |
 | **TOTALS TOTAL** | **+1** | Under | **NO BET** |
 
-### Game E8: (2) UConn -20.5 vs (15) Furman
+### Game E8: (2) UConn -20.5 vs (15) Furman | Total: 136.5 | Philadelphia, 10:00 PM ET Fri
 
 | Factor | Score | Side | Notes |
 |--------|-------|------|-------|
-| S7: **Hurley 83% ATS** | **+3** | UConn | **Best coaching factor in the model** |
+| S7: **Hurley 83% ATS (17-3)** | **+3** | UConn | **Best coaching factor in the model. 14-game NCAA tourney ATS streak.** |
 | S6: KenPom top-10 | +1 | UConn | ~KP #8 |
 | C1: 2 factors on same side | 0 | — | Need 3+ for bonus |
 | **SPREAD TOTAL** | **+4** | UConn -20.5 | **BET 1u** |
 | T1: Tournament game | +1 | Under | |
 | T1: UConn top-15 defense | +1 | Under | |
-| **TOTALS TOTAL** | **+2** | Under | **BET 1u UNDER** |
+| **TOTALS TOTAL** | **+2** | Under 136.5 | **BET 1u UNDER** |
 
 ---
 
@@ -447,17 +448,18 @@
 
 ## 2026 R64 BET CARD SUMMARY
 
-### SPREAD BETS (7 bets)
+### SPREAD BETS (8 bets)
 
-| # | Game | Side | Spread | Score | Size | Factor(s) |
-|---|------|------|--------|-------|------|-----------|
-| 1 | Ohio State vs TCU | **Ohio State** | -2.5 | +3 | 1u | S2: FT% 77.5% in ≤4pt spread |
-| 2 | UConn vs Furman | **UConn** | -20.5 | +4 | 1u | S7: Hurley 83% ATS + S6: KP top-10 |
-| 3 | Texas Tech vs Akron | **Akron** | +8.5 | +3 | 1u | S10: Toppin OUT (leading scorer/rebounder, torn ACL) |
-| 4 | Alabama vs Hofstra | **Hofstra** | +11.5 | +3 | 1u | S10: Holloway OUT (16.8 PPG, arrested, 9 scholarship players) |
-| 5 | UNC vs VCU | **VCU** | +2.5 | +3 | 1u | S10: Wilson OUT (projected top-5 pick, UNC 0-2 without him) |
-| 6 | Saint Mary's vs Texas A&M | **Saint Mary's** | -3.5 | +3 | 1u | S2: FT% 81.1% (nation's best) in ≤4pt spread |
-| 7 | Gonzaga vs Kennesaw State | **Kennesaw St** | +20.5 | +3 | 1u | S10: Huff OUT (17.8 PPG, 2 of 3 losses without him) |
+| # | Game | Day | Side | Spread | Score | Size | Factor(s) |
+|---|------|-----|------|--------|-------|------|-----------|
+| 1 | Ohio State vs TCU | Thu | **Ohio State** | -2.5 | +3 | 1u | S2: FT% 77.5% in ≤4pt spread |
+| 2 | Louisville vs USF | Thu | **USF** | +4.5 | +3 | 1u | S10: Brown OUT (18.2 PPG, Louisville 7-5 without him) |
+| 3 | UNC vs VCU | Thu | **VCU** | +2.5 | +3 | 1u | S10: Wilson OUT (top-5 pick, UNC 0-2 without him) |
+| 4 | Saint Mary's vs Texas A&M | Thu | **Saint Mary's** | -3.5 | +3 | 1u | S2: FT% 81.1% (nation's best) in ≤4pt spread |
+| 5 | Texas Tech vs Akron | Fri | **Akron** | +7.5 | +3 | 1u | S10: Toppin OUT (leading scorer/rebounder, torn ACL) |
+| 6 | Alabama vs Hofstra | Fri | **Hofstra** | +11.5 | +3 | 1u | S10: Holloway OUT (16.8 PPG, 9 scholarship players) |
+| 7 | Gonzaga vs Kennesaw St | Fri | **Kennesaw St** | +20.5 | +3 | 1u | S10: Huff OUT (17.8 PPG, 2 of 3 losses without him) |
+| 8 | UConn vs Furman | Fri | **UConn** | -20.5 | +4 | 1u | S7: Hurley 83% ATS + S6: KP top-10 |
 
 ### UNDER BETS (8 bets)
 
@@ -473,11 +475,11 @@
 | 8 | Houston vs Idaho | **Under** | +2 | 1u | T1: Tourney game + Houston #5 defense |
 | 9 | Arizona vs LIU | **Under** | +2 | 1u | T1: Tourney game + Arizona #3 defense |
 
-### CONDITIONAL BETS (monitor availability reports)
+### CONDITIONAL BETS (monitor availability reports tonight)
 
 | # | Game | Condition | Potential Bet |
 |---|------|-----------|---------------|
-| 1 | Louisville vs USF | If Mikel Brown Jr. ruled OUT | **USF +6.5** (1u) — S10: +3 star OUT |
+| 1 | ~~Louisville vs USF~~ | ~~Brown ruled OUT~~ | **CONFIRMED — moved to main card** |
 | 2 | Tennessee vs FF winner | If spread ≤4 and opponent FT 77%+ | Opponent side — S7: Barnes -2 + S2: FT% |
 
 ---
@@ -486,27 +488,59 @@
 
 | Category | Bets | Total Risk | Break-even | Expected |
 |----------|------|-----------|------------|----------|
-| Spread bets | 7 | $385 (7 × $55) | Need 4 wins | V2 projects ~67% = ~5 wins |
+| Spread bets | 8 | $440 (8 × $55) | Need 5 wins | V2 projects ~67% = ~5-6 wins |
 | Under bets | 9 | $495 (9 × $55) | Need 5 wins | V2 projects ~58% = ~5 wins |
-| Conditional | 0-2 | $0-$110 | — | Depends on injury reports |
-| **TOTAL** | **16** | **$880** | 9 wins | ~10 wins projected |
+| **TOTAL** | **17** | **$935** | 10 wins | ~10-11 wins projected |
 
 ### Expected P&L Range
-- **Bull case (12-4):** +$280
-- **Base case (10-6):** +$170
-- **Bear case (8-8):** +$70
-- **Worst case (6-10):** -$150
+- **Bull case (13-4):** +$310
+- **Base case (11-6):** +$220
+- **Bear case (9-8):** +$120
+- **Worst case (7-10):** -$100
+
+---
+
+## THURSDAY/FRIDAY SCHEDULE BY POD
+
+### Thursday, March 19
+
+| Pod | Venue | Games with V2 Bets |
+|-----|-------|---------------------|
+| **Greenville, SC** | Bon Secours Wellness Arena | Ohio State -2.5 (12:15 PM), BYU/Texas (no bet) |
+| **Buffalo, NY** | KeyBank Center | **USF +4.5** (1:30 PM) |
+| **Oklahoma City, OK** | Paycom Center | **VCU +2.5** (6:50 PM) |
+| **Portland, OR** | Moda Center | **Saint Mary's -3.5** (7:35 PM) |
+
+### Friday, March 20
+
+| Pod | Venue | Games with V2 Bets |
+|-----|-------|---------------------|
+| **St. Louis, MO** | Enterprise Center | **Kennesaw St +20.5** (Gonzaga game) |
+| **Tampa, FL** | Benchmark International Arena | **Akron +7.5** (12:40 PM), **Hofstra +11.5** (3:15 PM) |
+| **Philadelphia, PA** | Xfinity Mobile Arena | **UConn -20.5** (10:00 PM) |
+| **San Diego, CA** | Viejas Arena | (no spread bets) |
 
 ---
 
 ## NOTES
 
 1. **This is the first TRUE forward test of V2.** Every prior result was backtested.
-2. **Injury bets dominate this card (4 of 7 spread bets).** The new S10 factor is driving most of the action. This is by design — the 2026 tournament has an unusual number of star players injured.
-3. **Under bets are all driven by elite defenses.** The top-10 defenses (Duke, Michigan, Arizona, Houston, Iowa State, Florida, UConn) are all in the tournament as high seeds, creating natural under spots.
-4. **The model passes on ALL four 1-seeds for spread bets.** Duke (injuries), Michigan (no factor support at -31.5), Florida (Golden ATS -2 + injury), Arizona (Lloyd ATS -2). This is V2 working as intended — KenPom top-5 alone isn't enough.
-5. **Check NCAA availability reports at 9 PM tonight** for all questionable players. The Louisville/Brown situation could add a bet.
+2. **Injury bets dominate this card (5 of 8 spread bets).** The new S10 factor is driving most of the action. The 2026 tournament has an unusual number of star players injured — Brown (Louisville), Wilson (UNC), Toppin (Texas Tech), Holloway (Alabama), Huff (Gonzaga).
+3. **Under bets are all driven by elite defenses.** The KenPom top-10 defenses (Duke #2, Arizona #3, Iowa State #4, Houston #5, Florida #6, Michigan #1) are all high seeds, creating natural under spots in blowout games.
+4. **The model passes on ALL four 1-seeds for spread bets.** Duke (injuries reduce edge), Michigan (no factor support at -31.5), Florida (Golden 37.5% ATS + missing C), Arizona (Lloyd 30% ATS). KenPom top-5 alone isn't enough.
+5. **Non-mechanical checks before each bet:**
+   - Verify public betting % isn't 80%+ against your side
+   - Look for reverse line movement confirming your side
+   - Check the 2-hour pre-tip availability report update
+   - Confirm closing line hasn't moved past your entry point
+
+## SHARP MONEY SIGNALS TO MONITOR
+
+- **Utah State -2.5 vs Villanova:** Sharp money moved this from -1.5 to -3 quickly. Not enough V2 signal to bet, but confirms sharps see value.
+- **Ohio State:** Covering 5 straight, 8-1 ATS in last 9. Aligns with our FT% play.
+- **UConn:** 14-game NCAA tournament ATS streak (Hurley factor). Our strongest conviction play.
+- **Georgia vs Saint Louis O/U 170:** Highest total on the board. Could be an over spot (rare in V2 model, but 170 is extreme).
 
 ---
 
-*Scored March 18, 2026. V2 Mechanical Scoring Rules. Track results through the tournament.*
+*Scored March 18, 2026. V2 Mechanical Scoring Rules. First true forward test. Track results through the tournament.*
