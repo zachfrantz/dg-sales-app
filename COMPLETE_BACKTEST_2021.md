@@ -2,7 +2,7 @@
 
 > **Context:** Entire tournament played in Indianapolis (COVID bubble). Travel factor X1 = 0 for all games.
 > **KenPom Top 5:** Gonzaga (#1, ~+36), Baylor (#2, ~+33), Michigan (#3, ~+28), Illinois (#4, ~+27), Houston (#5, ~+26)
-> **77%+ FT:** Villanova (79.0%), Gonzaga (78.5%), Baylor (77.8%), Creighton (77.5%), Colorado (77.2%)
+> **77%+ FT:** Villanova (79.0%), Baylor (~77.8%), Creighton (~77.5%), Colorado (~77.2%). **Gonzaga was 73.0% FT — does NOT qualify.**
 > **Coaching ATS:** Andy Enfield (USC) ~9-0 ATS = +3. No other coach qualifies for bonus or penalty at threshold.
 > **Bankroll:** $1,000. 1u = $55 risk/$50 win. 2u = $110/$100. 3u = $165/$150.
 
@@ -166,11 +166,11 @@ For each game: evaluate both sides, take the higher score.
 
 | # | Game | Spread | Dog Score | Fav Score | Best | Bet? | Side | Size | Result | P&L |
 |---|------|--------|-----------|-----------|------|------|------|------|--------|-----|
-| 1 | (1) Gonzaga vs (1) Baylor | Zaga -4.5 | S6:+1(top5 at #2), S2:+3(FT77.8%,spread≤4? 4.5>4→+2) = **+3** | S6:+1(top5 at #1), S2:+2(FT78.5%,spread>4→+2? Wait, Gonzaga FT also 78.5%, spread≤6→+2). Both have FT 77%+ so they CANCEL to 0. Then: S6:+1 each, cancel. | Both +1 | NO | — | — | Baylor 86-70. Baylor covers ✓. | — |
+| 1 | (1) Gonzaga vs (1) Baylor | Zaga -4.5 | Baylor +4.5: S6:+1(top5 at #2), S2:+3(FT~77.8%,spread≤4? 4.5>4→+2) = **+3** | Gonzaga -4.5: S6:+1(top5 at #1), S2:0(Gonzaga FT 73.0%<77%) = **+1** | **+3 (Baylor)** | **YES** | **Baylor +4.5** | **1u** | Baylor 86-70. **Baylor WON outright. ✅** | **+$50** |
 
-Wait — both teams have 77%+ FT, so S2 cancels to 0 per rules. Both are KenPom top 5, so S6 provides +1 to each side — also cancels. Net score: 0 for either side.
+Gonzaga was only 73.0% FT — they do NOT qualify for the FT% bonus. Baylor (~77.8%) does. Baylor gets S2 +2 (spread ≤6) plus S6 +1 (top-5 KenPom) = +3. This is a bet.
 
-### Championship: 0 bets. (Both teams too evenly matched on factors.)
+### Championship: 1 bet. Baylor +4.5 ✅ (+$50).
 
 ---
 
@@ -183,12 +183,12 @@ Wait — both teams have 77%+ FT, so S2 cancels to 0 per rules. Both are KenPom 
 | Sweet 16 | 1 | 1-0 | +$50 |
 | Elite 8 | 4 | 2-2 | -$65 |
 | Final Four | 1 | 1-0 | +$50 |
-| Championship | 0 | — | $0 |
-| **TOTAL** | **9** | **6-3 (66.7%)** | **+$80** |
+| Championship | 1 | 1-0 | +$50 |
+| **TOTAL** | **10** | **7-3 (70.0%)** | **+$130** |
 
 ### Games Scored: 63/63 (every game in the tournament)
-### Bets Triggered: 9 of 63 (14.3% bet rate)
-### Bankroll: $1,000 → $1,080 (+8.0% return)
+### Bets Triggered: 10 of 63 (15.9% bet rate)
+### Bankroll: $1,000 → $1,130 (+13.0% return)
 
 ---
 
@@ -205,6 +205,7 @@ Wait — both teams have 77%+ FT, so S2 cancels to 0 per rules. Both are KenPom 
 | 7 | E8 | Gonzaga vs USC | USC +8.5 | 2u | +6 | ❌ LOSS | -$20 | $980 |
 | 8 | E8 | Michigan vs UCLA | UCLA +7.5 | 1u | +3 | ✅ WIN | +$30 | $1,030 |
 | 9 | FF | Baylor vs Houston | Baylor -5 | 1u | +3 | ✅ WIN | +$80 | $1,080 |
+| 10 | Champ | Gonzaga vs Baylor | Baylor +4.5 | 1u | +3 | ✅ WIN | +$130 | $1,130 |
 
 **Max drawdown:** -$20 after USC 2u E8 loss (Gonzaga blowout). Recovered immediately.
 
