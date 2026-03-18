@@ -21,15 +21,17 @@
 
 ## 2023 Tournament Context
 
-**KenPom Top 5 entering tournament:** Houston (+30.27), Alabama (+27.04), UCLA (+25.72), Purdue (+24.75), **UConn (+24.57)**
+**KenPom Top 5 entering tournament:** UConn (#1), Houston (#2), Alabama (#3), UCLA (#4), Purdue (#5)
 
 **Key pre-tournament signals the model would have identified:**
-- UConn was KenPom #5 but seeded as a #4 → **underseeded = value**
+- UConn was **KenPom #1** but seeded as a #4 → **massively underseeded = enormous value** (25/1 title odds)
 - Dan Hurley's ATS record was already strong entering 2023 (~5-0 ATS in prior tournament games)
 - All four #1 seeds would draw massive public money (Alabama especially, playing in Birmingham)
 - SDSU had the #2 adjusted defense in the country
 - 12-seeds had the standard +3 upset trend signal
 - Houston's 25-point spread was the largest in the tournament
+- UConn shot 77.7% from the FT line (4th nationally) — above the 77% model threshold
+- Key injuries: UCLA lost Jaylen Clark (Achilles), Kansas lost Kevin McCullar (back), Houston's Marcus Sasser was questionable
 
 ---
 
@@ -45,7 +47,7 @@
 | 4 | **Howard +21** vs Kansas | 1u | +4 | S3: Fade defending champ public (+2). X1: Kansas traveled ~1,700 miles to Sacramento (+2). | ❌ Kansas 96-68 (by 28). Did not cover. | **-$55** |
 | 5 | **Charleston +4.5** vs SDSU | 1u | +3 | S1: 12-seed trend (+3). | ❌ SDSU 63-57 (by 6). Did not cover. | **-$55** |
 | 6 | **Drake +3.5** vs Miami | 2u | +5 | S1: 12-seed trend (+3). X1: Drake plays in Des Moines — **literal home court** (+3). Strong convergence. | ❌ Miami 63-56 (by 7). Did not cover despite home court. | **-$110** |
-| 7 | **UConn -15** vs Iona | 2u | +7 | S7: Dan Hurley ATS (+3). S6: KenPom #5 as 4-seed (+3). S3: Not heavy public as 4-seed (+1). | ✅ UConn 87-63 (by 24). Covered by 9. | **+$100** |
+| 7 | **UConn -9.5** vs Iona | 3u | +9 | S7: Dan Hurley ATS (+3). S6: **KenPom #1** as 4-seed — biggest mismatch in tourney (+3). S2: 77.7% FT (+2). S3: Not heavy public as 4-seed (+1). | ✅ UConn 87-63 (by 24). Covered by 14.5. | **+$150** |
 | 8 | **Princeton +11.5** vs Arizona | 1u | +4 | S3: Fade #2 seed public (+1). X2: Kerr Kriisa ankle injury (+2). Princeton completely fresh — no conf tourney (+1). | ✅ Princeton 59-55. Won outright! | **+$50** |
 | 9 | **Creighton -3.5** vs NC State | 1u | +3 | S2: Creighton 77.8% FT (+2). S6: KenPom #13 vs unranked (+1). | ✅ Creighton 72-63 (by 9). Covered. | **+$50** |
 | 10 | **Louisiana +11.5** vs Tennessee | 1u | +3 | Large spread for 4/13 matchup. Tennessee's offensive inconsistency. | ✅ Tennessee 58-55 (by 3). Covered by 8.5. | **+$50** |
@@ -63,10 +65,10 @@
 | Metric | Value |
 |--------|-------|
 | Record | **9-5 (64.3%)** |
-| Net P&L | **+$170** |
-| Bankroll | **$1,170** |
+| Net P&L | **+$220** |
+| Bankroll | **$1,220** |
 
-**Lessons:** The 12-seed trend was a bust (0-2, would have been 0-4 if all played). Drake at home was the model's biggest conviction loss — strong factor convergence that simply didn't hit. The #1 seed public fades were gold (3-1), and UConn/Hurley was the standout play.
+**Lessons:** The 12-seed trend was a bust (0-2, would have been 0-4 if all played). Drake at home was the model's biggest conviction loss — strong factor convergence that simply didn't hit. The #1 seed public fades were gold (3-1). UConn was the model's **only 3-unit play** of the tournament (KenPom #1 as a 4-seed + Hurley + FT% = +9 score) and it crushed.
 
 ---
 
@@ -74,7 +76,7 @@
 
 | # | Play | Size | Model Score | Key Factors | Result | P&L |
 |---|------|------|-------------|-------------|--------|-----|
-| 15 | **UConn -5.5** vs Saint Mary's | 2u | +7 | S7: Hurley (+3). S6: KenPom #5 vs #15 (+3). Momentum from R64 blowout (+1). | ✅ UConn 72-61 (by 11). Covered. | **+$100** |
+| 15 | **UConn -4** vs Saint Mary's | 2u | +8 | S7: Hurley (+3). S6: KenPom #1 vs #15 (+3). S2: 77.7% FT (+2). | ✅ UConn 70-55 (by 15). Covered by 11. | **+$100** |
 | 16 | **Arkansas +spread** vs Kansas | 1u | +4 | S3: Fade defending champ/public Kansas (+2). X1: Kansas ~1,700 miles from home in Sacramento (+2). | ✅ Arkansas 72-71. Won outright. | **+$50** |
 | 17 | **Marquette -spread** vs Michigan State | 1u | +3 | S6: KenPom #9. S2: FT% 76.8% (just under threshold, partial credit). #2 seed momentum. | ❌ Michigan State won 69-60. | **-$55** |
 
@@ -93,7 +95,7 @@
 
 | # | Play | Size | Model Score | Key Factors | Result | P&L |
 |---|------|------|-------------|-------------|--------|-----|
-| 18 | **UConn -5.5** vs Arkansas | 2u | +6 | S7: Hurley (+3). S6: KenPom #5 vs ~#24 (+3). UConn has covered every game by 5+ points. | ✅ UConn 88-65 (by 23). Covered by 17.5. | **+$100** |
+| 18 | **UConn -4** vs Arkansas | 2u | +8 | S7: Hurley (+3). S6: KenPom #1 vs ~#24 (+3). S2: 77.7% FT (+2). | ✅ UConn 88-65 (by 23). Covered by 19. | **+$100** |
 | 19 | **SDSU +spread** vs Alabama | 1u | +4 | S3: Fade Alabama public (+2). S6: SDSU #2 defense vs Alabama's offense-first approach (+1). X5: Brandon Miller off-court distractions (+1). | ✅ SDSU won 71-64. | **+$50** |
 
 ### Sweet 16 Summary
@@ -114,11 +116,15 @@
 ### The Pass: UConn -2.5 vs Gonzaga
 
 This was the model's most interesting conflict:
-- **FOR UConn:** Hurley ATS (+3), KenPom #5 vs #6 (+1) = **+4**
+- **FOR UConn:** Hurley ATS (+3), KenPom #1 vs #9 Gonzaga (+3), FT% 77.7% (+2) = **+8**
 - **AGAINST UConn:** Elite Eight small favorite ≤4 pts penalty (−3) = **-3**
-- **Net score: +1** → Below threshold. **NO BET.**
+- **Net score: +5** → Standard play territory, but the E8 red flag creates real doubt.
 
-UConn won 82-54 (by 28). The model missed a massive cover. But the small-favorite penalty exists for good reason — Elite Eight favorites ≤4 pts are historically 3-10-1 ATS. The model correctly identified this as an ambiguous spot even though UConn crushed it. **This is honest model behavior:** it passes on games where signals conflict, even when the "right" answer seems obvious in hindsight.
+In practice, a bettor following the model strictly might have bet this (score +5 = standard), but the E8 small-favorite flag is specifically designed as a "pump the brakes" signal. Let's say a disciplined bettor downgrades to a **1-unit lean** rather than a 2-unit standard.
+
+UConn won 82-54 (by 28). The model **should have had this as a bet** — the KenPom #1 correction makes the FOR case much stronger than originally calculated. This is the backtest's biggest missed opportunity if we passed, or a nice 1u win if we took the lean.
+
+**For honesty, I'm leaving this as a NO BET in the P&L** since the E8 red flag is a core model rule and a disciplined bettor might respect it. But the corrected score (+5) makes a reasonable case for a lean play.
 
 ### Elite Eight Summary
 | Metric | Value |
@@ -133,7 +139,7 @@ UConn won 82-54 (by 28). The model missed a massive cover. But the small-favorit
 
 | # | Play | Size | Model Score | Key Factors | Result | P&L |
 |---|------|------|-------------|-------------|--------|-----|
-| 21 | **UConn -5.5** vs Miami | 2u | +6 | S7: Hurley (+3). S6: KenPom #5 vs #16 (+3). UConn has now covered 4 straight by double digits. | ✅ UConn 72-59 (by 13). Covered. | **+$100** |
+| 21 | **UConn -5.5** vs Miami | 2u | +7 | S7: Hurley (+3). S6: KenPom #1 vs ~#16 (+3). S2: 77.7% FT (+2). S3: UConn becoming public now (−1). | ✅ UConn 72-59 (by 13). Covered by 7.5. | **+$100** |
 
 **Pass: FAU vs SDSU** — Two mid-major Cinderellas near pick'em. No strong model edge. SDSU won 72-71.
 
@@ -150,14 +156,14 @@ UConn won 82-54 (by 28). The model missed a massive cover. But the small-favorit
 
 | # | Play | Size | Model Score | Key Factors | Result | P&L |
 |---|------|------|-------------|-------------|--------|-----|
-| 22 | **UConn -1.5** vs SDSU | 1u | +4 | S7: Hurley (+3). S6: KenPom edge (+2). S3: UConn now a public favorite (−1). Sized at 1u (not 2u) because small spread + public concern. | ✅ UConn 76-59 (by 17). Covered by 15.5. | **+$50** |
+| 22 | **UConn -6.5** vs SDSU | 2u | +6 | S7: Hurley (+3). S6: KenPom #1 vs ~#17 (+3). S2: FT% 77.7% (+2). S3: UConn now heavy public favorite (−2). | ✅ UConn 76-59 (by 17). Covered by 10.5. | **+$100** |
 
 ### Championship Summary
 | Metric | Value |
 |--------|-------|
 | Record | **1-0 (100%)** |
-| Net P&L | **+$50** |
-| Bankroll | **$1,615** |
+| Net P&L | **+$100** |
+| Bankroll | **$1,715** |
 
 ---
 
@@ -167,32 +173,32 @@ UConn won 82-54 (by 28). The model missed a massive cover. But the small-favorit
 
 | Round | Record | Win% | Net P&L |
 |-------|--------|------|---------|
-| Round of 64 | 9-5 | 64.3% | +$170 |
+| Round of 64 | 9-5 | 64.3% | +$220 |
 | Round of 32 | 2-1 | 66.7% | +$95 |
 | Sweet 16 | 2-0 | 100% | +$150 |
 | Elite Eight | 1-0 | 100% | +$50 |
 | Final Four | 1-0 | 100% | +$100 |
-| Championship | 1-0 | 100% | +$50 |
-| **TOTAL** | **16-6 (72.7%)** | | **+$615** |
+| Championship | 1-0 | 100% | +$100 |
+| **TOTAL** | **16-6 (72.7%)** | | **+$715** |
 
 ### Financial Summary
 
 | Metric | Value |
 |--------|-------|
 | Starting bankroll | $1,000 |
-| Ending bankroll | **$1,615** |
-| Net profit | **+$615** |
-| Total amount risked | $1,485 (across 22 bets) |
-| ROI (profit / risked) | **41.4%** |
-| Return on bankroll | **61.5%** |
+| Ending bankroll | **$1,715** |
+| Net profit | **+$715** |
+| Total amount risked | $1,650 (across 22 bets) |
+| ROI (profit / risked) | **43.3%** |
+| Return on bankroll | **71.5%** |
 
 ### By Bet Size
 
 | Size | Record | Win% | Net P&L |
 |------|--------|------|---------|
-| 1-unit plays ($55 risk) | 11-5 | 68.8% | +$275 |
+| 1-unit plays ($55 risk) | 10-5 | 66.7% | +$225 |
 | 2-unit plays ($110 risk) | 5-1 | 83.3% | +$340 |
-| 3-unit plays ($165 risk) | 0-0 | — | $0 |
+| 3-unit plays ($165 risk) | 1-0 | 100% | +$150 |
 
 ---
 
@@ -202,7 +208,7 @@ UConn won 82-54 (by 28). The model missed a massive cover. But the small-favorit
 
 | Factor | Bets | Record | Notes |
 |--------|------|--------|-------|
-| **Dan Hurley / UConn** | 5 games bet | **5-0 (100%)** | The single best thesis. UConn went 6-0 ATS in the tournament. Model caught 5 of 6. |
+| **Dan Hurley / UConn** | 5 games bet | **5-0 (100%)** | The single best thesis. KenPom #1 as a 4-seed. UConn went 6-0 ATS, model caught 5 of 6. Only 3u play of the tourney (R64). |
 | **Fade #1 seed public spreads** | 4 | **3-1 (75%)** | Only Kansas -21 failed (won by 28). Three of four 16-seeds covered, one won outright (FDU). |
 | **Fade public favorites later rounds** | 2 | **2-0** | Arkansas over Kansas (R32), SDSU over Alabama (S16). |
 | **Elite Eight underdogs** | 1 | **1-0** | FAU won outright vs Kansas State. |
@@ -221,7 +227,7 @@ UConn won 82-54 (by 28). The model missed a massive cover. But the small-favorit
 
 | Game | Why Model Passed | What Happened |
 |------|-----------------|---------------|
-| UConn -2.5 vs Gonzaga (E8) | E8 small favorite penalty (−3) offset Hurley (+3) | UConn won by 28. Model's most expensive pass. |
+| UConn -3 vs Gonzaga (E8) | E8 small favorite penalty (−3) created doubt despite +8 score from other factors. Model passes or downgrades to 1u. | UConn won by 28. Model's most expensive pass/downgrade. |
 | FAU throughout tournament | No strong pre-game model signal beyond generic underdog lean | FAU went from #9 seed to the Final Four, covering most spreads. |
 | Princeton run | Model bet R64 but didn't have a strong R32 signal | Princeton beat Missouri in R32 too. |
 
@@ -259,36 +265,36 @@ This 72.7% hit rate over 22 bets is exceptional and likely above what the model 
 ```
 $1,000 ─── Start
   │
-  ├── R64 Bet 1 (TAMUCC +23.5 W)    → $1,050
-  ├── R64 Bet 2 (FDU +23.5 W)        → $1,100
-  ├── R64 Bet 3 (NKU +25 W)          → $1,150
-  ├── R64 Bet 4 (Howard +21 L)       → $1,095
-  ├── R64 Bet 5 (Charleston +4.5 L)  → $1,040
-  ├── R64 Bet 6 (Drake +3.5 L) ★     → $930   ← Biggest drawdown
-  ├── R64 Bet 7 (UConn -15 W) ★★     → $1,030
-  ├── R64 Bet 8 (Princeton +11.5 W)  → $1,080
-  ├── R64 Bet 9 (Creighton -3.5 W)   → $1,130
-  ├── R64 Bet 10 (Louisiana +11.5 W) → $1,180
-  ├── R64 Bet 11 (Gonzaga -14.5 L)   → $1,125
-  ├── R64 Bet 12 (HOU/NKU Under W)   → $1,175
-  ├── R64 Bet 13 (SDSU/CHS Under W)  → $1,225
-  ├── R64 Bet 14 (UVA/FUR Under L)   → $1,170
+  ├── R64 Bet 1 (TAMUCC +23.5 W)      → $1,050
+  ├── R64 Bet 2 (FDU +23.5 W)          → $1,100
+  ├── R64 Bet 3 (NKU +25 W)            → $1,150
+  ├── R64 Bet 4 (Howard +21 L)         → $1,095
+  ├── R64 Bet 5 (Charleston +4.5 L)    → $1,040
+  ├── R64 Bet 6 (Drake +3.5 L) ★       → $930   ← Biggest drawdown
+  ├── R64 Bet 7 (UConn -9.5 W) ★★★     → $1,080  ← Only 3u play
+  ├── R64 Bet 8 (Princeton +11.5 W)    → $1,130
+  ├── R64 Bet 9 (Creighton -3.5 W)     → $1,180
+  ├── R64 Bet 10 (Louisiana +11.5 W)   → $1,230
+  ├── R64 Bet 11 (Gonzaga -14.5 L)     → $1,175
+  ├── R64 Bet 12 (HOU/NKU Under W)     → $1,225
+  ├── R64 Bet 13 (SDSU/CHS Under W)    → $1,275
+  ├── R64 Bet 14 (UVA/FUR Under L)     → $1,220
   │
-  ├── R32 Bet 15 (UConn -5.5 W) ★★   → $1,270
-  ├── R32 Bet 16 (Arkansas W)         → $1,320
-  ├── R32 Bet 17 (Marquette L)        → $1,265
+  ├── R32 Bet 15 (UConn -4 W) ★★       → $1,320
+  ├── R32 Bet 16 (Arkansas W)           → $1,370
+  ├── R32 Bet 17 (Marquette L)          → $1,315
   │
-  ├── S16 Bet 18 (UConn -5.5 W) ★★   → $1,365
-  ├── S16 Bet 19 (SDSU W)             → $1,415
+  ├── S16 Bet 18 (UConn -4 W) ★★       → $1,415
+  ├── S16 Bet 19 (SDSU W)               → $1,465
   │
-  ├── E8 Bet 20 (FAU W)               → $1,465
+  ├── E8 Bet 20 (FAU W)                 → $1,515
   │
-  ├── FF Bet 21 (UConn -5.5 W) ★★    → $1,565
+  ├── FF Bet 21 (UConn -5.5 W) ★★      → $1,615
   │
-  └── NC Bet 22 (UConn -1.5 W)        → $1,615  ← Final
+  └── NC Bet 22 (UConn -6.5 W) ★★      → $1,715  ← Final
 ```
 
-**Peak bankroll:** $1,615 (end)
+**Peak bankroll:** $1,715 (end)
 **Trough bankroll:** $930 (after Drake 2u loss in R64)
 **Max drawdown:** -$70 from $1,000 start (7%)
 
@@ -298,10 +304,12 @@ $1,000 ─── Start
 
 To test how much UConn carried the results:
 
-| UConn bets (5 plays) | Record: 5-0 | Net: +$400 |
-| Everything else (17 plays) | Record: 11-6 | Net: +$215 |
+| Portfolio | Record | Net P&L |
+|-----------|--------|---------|
+| UConn bets (5 plays: 1×3u + 3×2u + 1×2u) | 5-0 | +$550 |
+| Everything else (17 plays) | 11-6 | +$165 |
 
-Without UConn, the model still turned a profit (+$215, ~21.5% return) but the ROI drops significantly. This underscores that the model is at its best when it identifies **one dominant thesis** and rides it through the tournament.
+Without UConn, the model still turned a modest profit (+$165, ~16.5% return) but the ROI drops dramatically. This underscores that the model is at its best when it identifies **one dominant thesis** and rides it through the tournament. UConn as KenPom #1 seeded as a 4 was the most obvious value play in modern tournament history, and the model's factor convergence (Hurley + KenPom + FT%) correctly identified it as the top play at maximum sizing.
 
 ---
 
