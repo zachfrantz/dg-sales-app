@@ -730,38 +730,37 @@ Off-court issues produce measurable line movements and are among the most exploi
 
 ## The Playbook: Actionable Rules
 
-### Tier 1: Highest-Conviction Edges (2-3 units)
+### Tier 1: Highest-Conviction Edges (2 units max) — V2 Updated
 
-1. **Back 12-seeds ATS vs. 5-seeds** — 57% cover rate, the single most reliable trend
-2. **Teams with 77%+ FT% in games with spread ≤4** — 39-19 ATS (67.2%), +21.8% ROI
-3. **Fade teams with 75%+ public backing** — 31-44-2 ATS
-4. **Elite Eight underdogs** — best round for dogs, small favorites are 1-10-1 ATS
-5. **First-round unders when total is 150+** — 30-12 under (71.4%)
+1. **Teams with 77%+ FT% in games with spread ≤4** — 39-19 ATS (67.2%), backtest: 75% win rate, +$200 P&L
+2. **Back coaches with 70%+ tournament ATS records** — Hurley 85%, Enfield 77%. Backtest: 88.9% win rate for Hurley plays.
+3. **Multi-factor convergence (3+ factors same side)** — Backtest: 83.3% win rate (5-1). When everything aligns, bet with confidence.
+4. **Elite Eight underdogs WITH supporting factors** — E8 dogs with 2+ factors: ~67% win rate. Requires FT%, KenPom, coaching, or injury edge on top of the round bonus.
+5. **Tournament unders (any game scoring +2 or higher on totals factors)** — NEW in V2. Unders hit 59.3% across 5 years. Model V1 missed this entirely.
 6. **Sweet 16 double-digit seeds** — 16-7-1 ATS (69.6%) since 2011
 
-### Tier 2: Strong Edges (1-2 units)
+### Tier 2: Strong Edges (1 unit)
 
-7. **Back 11-seeds ATS vs. 6-seeds** — 62% dog cover rate
+7. **R32 bets with factor support** — Backtest: R32 went 80% (4-1). Tighter spreads + known matchups = cleaner signals. V2 adds +1 R32 bonus.
 8. **Fade Round of 32 blowout winners** — 25-44-1 ATS (36.2%) after winning by 20+
-9. **Elite Eight overs** — 87-63-2 (58%) since 2001
-10. **Back coaches with elite ATS records** (Hurley, Enfield, Painter)
-11. **Fade coaches with terrible ATS records** (Barnes, Dixon, Lloyd)
+9. **Fade coaches with terrible ATS records** (Barnes 38.7%, Dixon 34.5%, Lloyd 30%, Golden 37.5%)
+10. **Dominant 1-seeds (KenPom #1-3, AdjEM 5+ above field)** — Baylor 2021, UConn 2024 covered repeatedly
+11. **Injury-driven plays** — Star player OUT = +3 against injured team. NEW for 2026: NCAA mandatory availability reports provide objective data.
 12. **First-half unders in early tip-off games** — 60.4% since 2012
-13. **Back the closer team in 7/10 matchups** — 72% win rate for the geographically closer team
-14. **Fade West Coast teams traveling 2+ time zones east** — win% drops below 38%
+13. **Fade 3PT-dependent teams** — Top-20 in 3PT attempts but outside top-50 in 3PT%: volatile, go cold under pressure
 
-### Tier 3: Supporting Edges (1 unit)
+### Tier 3: Supporting Edges (tiebreakers and stacking factors)
 
-15. **Reverse line movement plays** — well-established sharp money indicator
-16. **ACC teams as pick-em or small dogs** — 79.2% ATS
-17. **Fade SEC teams as low seeds** — 41.2% ATS
-18. **Back teams playing in home state** — 80%+ SU since 2002 (Florida in Tampa, Duke in Greenville)
-19. **Championship game under** — 55.2%
-20. **Bounce-back teams** from prior year's disappointing exit
-21. **DD seeds with rebounding margin +5 & top-40 def. efficiency** — 58% ATS
-22. **Fade brand-name programs with 75%+ public tickets** — 31-44-2 ATS
-23. **Check referee crew assignments** — 5+ foul swing between high/low-foul crews affects totals
-24. **Monitor late injury reports (2 hrs before tip)** — "questionable" designations create value windows
+14. **Reverse line movement plays** — well-established sharp money indicator (non-mechanical check)
+15. **ACC teams as pick-em or small dogs** — 79.2% ATS
+16. **Fade SEC teams as low seeds** — 41.2% ATS
+17. **Championship game under** — 55.2%
+18. **Tempo mismatch (spread)** — Slower team gets +1 when tempo diff > 8 poss/game
+19. **Fade brand-name programs with 75%+ public tickets** — 31-44-2 ATS (non-mechanical check)
+20. **Check referee crew assignments** — 5+ foul swing between high/low-foul crews affects totals
+21. **Monitor late injury reports (2 hrs before tip)** — "questionable" designations create value windows
+
+> **V2 REMOVED from playbook:** ~~Back 12-seeds ATS vs 5-seeds~~ (1-7 record, -$400). ~~Back closer team in 7/10 matchups~~ (market prices geography). ~~Back teams in home state~~ (market prices geography). These are interesting narratives but do NOT produce betting edge.
 
 ### Rules to Never Break
 
@@ -809,68 +808,79 @@ Track which teams played 4+ games in their conference tournament. These teams ar
 
 ---
 
-## Appendix: Quick-Reference Cheat Sheet
+## Appendix: Quick-Reference Cheat Sheet — V2
 
 ```
-ROUND OF 64:
-  ✅ 12-seeds ATS vs 5-seeds (57%)
-  ✅ 11-seeds ATS vs 6-seeds (62%)
-  ✅ Teams with 77%+ FT% in close spreads (67.2% ATS)
-  ✅ First-half unders (55.9%)
-  ✅ Unders when total 150+ (71.4%)
-  ✅ Closer team in 7/10 matchups (72% win rate)
-  ✅ In-state teams (80%+ SU)
-  ❌ Small favorites -1 to -3 (41% ATS)
-  ❌ 75%+ public-backed teams (31-44-2 ATS)
-  ❌ West Coast teams traveling 2+ time zones east (<38% win rate)
+============================================================
+  MODEL V2 QUICK REFERENCE — BACKTEST-PROVEN EDGES ONLY
+============================================================
 
-ROUND OF 32:
-  ✅ First Four game winners (91.3% ATS in next game)
-  ❌ 14-seeds that upset in R1 (0-10 in R2)
-  ❌ R1 blowout winners (25-44-1 ATS, 36.2%)
+CORE FACTORS (Score these for EVERY game):
+  🏆 S2:  FT% 77%+ in ≤4pt spread = +3 (backtest: 75% win rate)
+  🏆 S7:  Coaching ATS 70%+ = +3 (backtest: 88.9% for Hurley)
+  🏆 S6:  KenPom top-5 = +1, Underseeded 15+ = +2
+  🏆 S10: Star OUT = +3 against, QUESTIONABLE = +1.5
+  🏆 S8:  3PT dependency (high volume, low %) = -1
+  🏆 S9:  Tempo mismatch > 8 poss/game = +1 for slow team
+  🏆 C1:  3+ factors on same side = +1 bonus
 
-SWEET 16:
-  ✅ Double-digit seeds (69.6% ATS)
-  ✅ Unders with mid-major involved (65%)
-  ❌ Favorites of 5+ points (31.8% ATS)
+SPREAD THRESHOLDS:
+  +5 or higher → BET 2 units (max)
+  +3 or +4    → BET 1 unit
+  +1 or +2    → NO BET
+  0 or below  → NO BET
 
-ELITE EIGHT:
-  ✅ Underdogs (best round for dogs)
-  ✅ Overs (58% since 2001)
-  ❌ Small favorites ≤4 pts (3-10-1 ATS, 17-33-1 since 1998)
-  ❌ 1-seeds (43.4% ATS)
+UNDER THRESHOLDS (NEW — lowered from +3 to +2):
+  +4 or higher → BET UNDER 2 units (max)
+  +2 or +3    → BET UNDER 1 unit
+  +1 or below → NO BET
 
-CHAMPIONSHIP:
-  ✅ Unders (55.2%)
-  ⚖️ Spread is meaningless (19-19 ATS)
+ROUND-SPECIFIC:
+  R64:  Score every game. Check FT%, coaching, injuries, tempo.
+  R32:  +1 bonus when factors apply (80% backtest win rate)
+        ❌ Fade R1 blowout winners (25-44-1 ATS, 36.2%)
+  S16:  ✅ DD seeds as dogs (69.6% ATS)
+        ❌ Favorites of 5+ pts (31.8% ATS)
+  E8:   ✅ Dogs WITH 2+ factors (~67%)
+        ❌ Dogs with ONLY the E8 bonus (~46% — no bet)
+        ❌ Small favorites ≤4 pts (reduced to -1 penalty)
+  FF:   Score normally. No round-specific bonus.
+  CHIP: ✅ Unders (55.2%). Spread is 19-19 ATS — meaningless.
 
-ALWAYS CHECK:
-  ✅ Reverse line movement (established sharp indicator)
-  ✅ Coaches: Hurley, Enfield, Painter
+REMOVED FROM V1 (DO NOT USE):
+  ❌ 12-seed vs 5-seed trend (1-7, -$400)
+  ❌ Travel/proximity as score booster (1-2, -$60)
+  ❌ Blanket auto-bid penalty (too broad)
+  ❌ 3-unit bets (no edge at that size)
+
+ALWAYS CHECK (non-mechanical final gut-check):
+  📋 Public % — if 80%+ against your side and no RLM, consider passing
+  📋 Reverse line movement — sharp money indicator
+  📋 Referee crew (RefMetrics.com) — affects totals
+  📋 NCAA availability reports — 9 PM night before + 2 hrs before tip
+  📋 Closing line value — bet early on favorites, late on dogs
+
+COACHES TO BET:                COACHES TO FADE:
+  Hurley (85% ATS)               Barnes (38.7% ATS)
+  Enfield (77% ATS)              Dixon (34.5% ATS)
+  Painter (76% early rounds)     Lloyd (30% ATS)
+  Few (74% ATS)                  Golden (37.5% ATS)
+  H. Davis (75% ATS)             Willard (36.4% ATS)
+
+CONFERENCE EDGES:
   ✅ ACC as small dogs (79.2% ATS)
-  ✅ Home state teams (80%+ SU)
-  ✅ Teams with 77%+ FT% (63.4% ATS overall)
-  ✅ DD seeds with +5 rebound margin & top-40 defense (58% ATS)
-  ❌ Coaches: Barnes, Dixon, Lloyd, Golden
   ❌ SEC as low seeds (41.2% ATS)
   ❌ Mountain West (32.2% ATS)
-  ❌ Conference tournament fatigue (4+ games in 4 days)
-  ❌ Blue-blood brand tax (75%+ public = 31-44-2 ATS)
-
-BEFORE EVERY BET:
-  📋 Check RefMetrics.com for crew assignments (affects totals)
-  📋 Check NCAA availability reports (2 hrs before tip)
-  📋 Check travel distance & time zone shift
-  📋 Check 3-point defense rank (poor = upset-vulnerable)
-  📋 Verify bet % vs. dollar % (sharp money indicator)
 ```
 
 ---
 
 ## Companion Documents
 
-- **[SCORING_MODEL.md](SCORING_MODEL.md)** — The quantitative scoring formula. Apply it to every game to generate bet/no-bet recommendations and unit sizing.
-- **[SOURCES.md](SOURCES.md)** — Complete validated source list with verification status for every claim in this document.
+- **[SCORING_MODEL.md](SCORING_MODEL.md)** — The quantitative scoring formula (V2). Apply it to every game.
+- **[MECHANICAL_SCORING_RULES_V2.md](MECHANICAL_SCORING_RULES_V2.md)** — V2 mechanical rules with full changelog from V1.
+- **[AGGREGATE_ANALYSIS.md](AGGREGATE_ANALYSIS.md)** — 5-year backtest results (2021-2025) that informed V2 changes.
+- **[SOURCES.md](SOURCES.md)** — Complete validated source list for every claim.
 
 ---
 

@@ -1,6 +1,7 @@
-# March Madness Betting Scoring Model
+# March Madness Betting Scoring Model — V2
 
-> **How to use:** For every potential bet, score the game across all applicable factors below. Each factor is weighted by the strength of its historical evidence. The total score determines your bet recommendation and unit sizing.
+> **V2 — Updated March 2026 based on 5-year mechanical backtest (2021-2025, 315 games, 49 bets, 30-19).**
+> **How to use:** For every potential bet, score the game across all applicable factors below. Each factor is weighted by the strength of its historical evidence AND its actual backtest performance. The total score determines your bet recommendation and unit sizing.
 
 ---
 
@@ -12,29 +13,30 @@ GAME SCORE = Spread Factors + Totals Factors + Situational Factors + Red Flags
 
 Each factor earns or deducts points. The final score maps to an action:
 
+### Spread Bets
 | Total Score | Action | Unit Size |
 |-------------|--------|-----------|
-| **+8 or higher** | **Strong bet** | 2-3 units |
-| **+5 to +7** | **Standard bet** | 1-2 units |
-| **+3 to +4** | **Lean / small bet** | 1 unit |
-| **+1 to +2** | **Marginal — pass unless stacking with live bet** | 0-1 units |
+| **+5 or higher** | **Strong bet** | 2 units (max) |
+| **+3 to +4** | **Standard bet** | 1 unit |
+| **+1 to +2** | **No bet** | 0 units |
 | **0 or below** | **No bet** | 0 units |
+
+### Under Bets (NEW threshold in V2)
+| Total Score | Action | Unit Size |
+|-------------|--------|-----------|
+| **+4 or higher** | **Strong under** | 2 units (max) |
+| **+2 to +3** | **Standard under** | 1 unit |
+| **+1 or below** | **No bet** | 0 units |
+
+> **V2 change:** Max bet capped at 2 units (was 3). Backtest showed 1u bets won 64.1% vs 50% for 2u+ bets.
+> **V2 change:** Under threshold lowered from +3 to +2. V1 generated ZERO under bets across 315 games despite unders hitting 59.3%.
 
 ---
 
 ## PART 1: SPREAD FACTORS
 
-### Factor S1: Seed Matchup ATS History
-**Weight: 0 to +3 points**
-
-| Condition | Points | Source |
-|-----------|--------|--------|
-| Betting a 12-seed ATS vs. a 5-seed | +3 | Covers.com: 5-seeds are 20-27-1 ATS since 2012 (~57% dog cover rate) |
-| Betting an 11-seed ATS vs. a 6-seed | +2 | Covers.com: 6-seeds are 21-34-1 ATS vs 11s (38.2% cover rate) |
-| Betting a 9-seed vs. an 8-seed | +1 | NCAA.com: 9-seeds are 83-77 SU historically (51.9%) |
-| Betting a 10-seed vs. a 7-seed | +1 | NCAA.com: ~38.8% upset rate, nearly identical to 11v6 |
-| Betting a 13-seed vs. a 4-seed | +1 | NCAA.com: 20.6% upset rate, ~50/50 ATS |
-| None of the above | 0 | |
+### ~~Factor S1: Seed Matchup ATS History~~ — REMOVED IN V2
+> **Removed.** Backtest record: 1-7 (12.5%), -$400 P&L. The "12 beats 5" narrative does not work as a betting edge — the market already prices in the upset probability. Seed matchup data is now used as background context only, not as a scoring factor.
 
 ### Factor S2: Free Throw Percentage
 **Weight: 0 to +3 points**
@@ -78,7 +80,7 @@ Each factor earns or deducts points. The final score maps to an action:
 | Round of 32, your side won R1 by 20+ | -2 | VSiN: 25-44-1 ATS (36.2%) — blowout regression |
 | Round of 32, 14-seed that upset in R1 | -3 | VSiN: 0-10 SU and ATS in R2 |
 | Sweet 16 favorite of 5+ points | -2 | VSiN: 7-15 ATS (31.8%) since 2017 |
-| Elite Eight small favorite (≤4 pts) | -3 | VSiN: 3-10-1 ATS recently, 17-33-1 since 1998 |
+| Elite Eight small favorite (≤4 pts) | **-1** | VSiN: 3-10-1 ATS recently. **V2: Reduced from -3.** The -3 caused betting AGAINST UConn 2023 E8 (lost by 28). |
 
 ### Factor S6: KenPom Profile
 **Weight: -1 to +2 points**
@@ -99,6 +101,50 @@ Each factor earns or deducts points. The final score maps to an action:
 | Your side coached by Enfield (10-3), H. Davis (9-3), Painter (22-7 early rounds), Few (~28-10) | +1 | SportsBookReview / FOX Sports |
 | Your side coached by Barnes (24-38, 38.7%) | -2 | SportsBookReview / Saturday Down South |
 | Your side coached by Dixon (10-19), Lloyd (3-6-1), Golden (3-5), Willard (4-7) | -1 | SportsBookReview / Saturday Down South |
+
+### Factor S8: 3-Point Dependency *(NEW in V2)*
+**Weight: -1 to +1 points**
+
+| Condition | Points | Source |
+|-----------|--------|--------|
+| Team is top-20 in 3PT attempt rate BUT outside top-50 in 3PT% | -1 | Tournament 3PT% drops ~2-3% from regular season. High-volume/low-accuracy teams are volatile. |
+| Team is top-10 in BOTH 3PT attempt rate AND 3PT% | +1 | Genuine shooting ability, not just volume. |
+
+### Factor S9: Tempo Mismatch (Spread Impact) *(NEW in V2)*
+**Weight: 0 to +1 points**
+
+| Condition | Points | Source |
+|-----------|--------|--------|
+| Tempo difference > 8 possessions/game between teams | +1 | Slow team controls pace ~65% of the time in neutral-site games (KenPom AdjT) |
+
+> Slow teams dictate pace. In mismatches, the game plays at the slower team's speed, reducing possessions and variance — favoring the team that wants fewer possessions.
+
+### Factor S10: Injury Impact *(NEW in V2 — was excluded in V1)*
+**Weight: -3 to +3 points**
+
+| Condition | Points | Source |
+|-----------|--------|--------|
+| Opponent's star player (top-2 usage on team) ruled OUT | +3 | Action Network: Star = ~3-3.5 pts to the spread. NCAA availability reports (mandatory 2026). |
+| Opponent's star player QUESTIONABLE | +1.5 | CBS Sports: New NCAA availability reports for 2026 |
+| Opponent's key rotation player OUT | +1 | Action Network: Role players underpriced by market |
+| YOUR side's star player OUT | -3 | Inverse |
+| YOUR side's star player QUESTIONABLE | -1.5 | Inverse |
+
+> **V2 rationale:** V1 excluded injuries as "too subjective." The 2026 NCAA mandatory availability reports (9 PM night before + 2 hrs before tip) now provide objective data. Combined with EvanMiya Indispensability Scores, injuries can be scored mechanically.
+
+### Factor C1: Multi-Factor Convergence Bonus *(NEW in V2)*
+**Weight: 0 to +1 points**
+
+| Condition | Points | Source |
+|-----------|--------|--------|
+| 3+ independent factors align on same side | +1 | Backtest: 3+ factor bets went 83.3% (5-1) vs 64.3% for 2-factor and 46.7% for single-factor |
+
+### Factor C2: R32 Timing Bonus *(NEW in V2)*
+**Weight: 0 to +1 points**
+
+| Condition | Points | Source |
+|-----------|--------|--------|
+| Round of 32 game where ≥1 factor already applies to a side | +1 | Backtest: R32 went 80% (4-1) across 5 years. Tighter spreads + known matchup dynamics = cleaner signals. |
 
 ---
 
@@ -138,17 +184,10 @@ Each factor earns or deducts points. The final score maps to an action:
 
 ## PART 3: SITUATIONAL FACTORS
 
-### Factor X1: Travel & Venue Proximity
-**Weight: -2 to +2 points**
-
-| Condition | Points | Source |
-|-----------|--------|--------|
-| Your side is playing in home state | +2 | TeamRankings: 33-8 SU (80%+) since pod system |
-| Your side is within 300 miles of venue | +1 | Clay/Bro/Clay 2014: Significant proximity advantage |
-| Your side in 7/10 matchup AND is the closer team | +2 | TeamRankings: 23 of 32 games (72%) won by closer team |
-| Opponent traveled 2+ time zones EAST | +1 | Clay/Bro/Clay 2014: 13.9% odds reduction |
-| YOUR side traveled 2+ time zones east | -2 | Clay/Bro/Clay 2014: Win% drops below 38% |
-| Your side has 1,000+ mile travel advantage over opponent | +1 | RotoWire 2026 analysis |
+### ~~Factor X1: Travel & Venue Proximity~~ — DEMOTED TO TIEBREAKER IN V2
+> **No longer scored.** Backtest record: 1-2 (33%), -$60 P&L. The market already prices geography into the line. Academic research (Clay, Bro & Clay 2014) is real — 150+ miles reduces winning odds by 33.6% — but this is reflected in the spread.
+>
+> **V2 usage:** Travel is now a **tiebreaker only**. When two sides score equally, lean toward the team that traveled less. Do NOT add points for proximity.
 
 ### Factor X2: Injury Impact
 **Weight: -2 to +2 points**
@@ -167,9 +206,9 @@ Each factor earns or deducts points. The final score maps to an action:
 
 | Condition | Points | Source |
 |-----------|--------|--------|
-| Opponent played 4+ games in 4 days in conference tournament | +1 | Action Network: 2/3 fell in opening weekend (21 of 33 since 2005) |
-| YOUR side played 4+ games in 4 days | -2 | Same source — fatigue is real |
-| Opponent is an early conference tournament exit (extra rest) | -1 | Action Network: Rest can be an advantage |
+| Opponent played 4+ games in conference tournament | +1 | Action Network: 2/3 fell in opening weekend (21 of 33 since 2005) |
+| YOUR side played 4+ games in conference tournament | -2 | Same source — fatigue is real |
+| ~~Auto-bid blanket penalty~~ | ~~-1~~ | **V2: Removed.** Blanket penalty punished teams with byes who weren't fatigued. Now only penalize actual 4+ game conf tourney runs. |
 
 ### Factor X4: Conference ATS Tendency
 **Weight: -1 to +1 point**
@@ -338,10 +377,11 @@ This aligns with the "3-5 high-conviction plays per day" guideline from sharp be
 
 | Evidence Tier | Factors | Notes |
 |--------------|---------|-------|
-| **Strongest** (large sample, 10+ years, 100+ games) | S1 (seed ATS), S2 (FT%), S3 (public %), T1 (unders), S5 (round-specific) | Most reliable long-term |
-| **Strong** (moderate sample, 5-10 years, 50+ games) | S4 (RLM), S7 (coaching), X1 (travel), X3 (fatigue), X4 (conference) | Reliable with context |
-| **Moderate** (smaller sample or newer data) | S6 (KenPom), X2 (injuries), T2 (tempo), X5 (intangibles) | Use as tiebreakers |
-| **Supplemental** (limited data, qualitative) | T3 (referee), narrative factors | Don't bet on these alone |
+| **Strongest** (backtest-proven, 65%+ win rate) | S2 (FT%), S7 (coaching ATS), C1 (convergence) | Core of the model. Bet confidently. |
+| **Strong** (backtest-proven, 55-65% win rate) | S5 (E8 dogs w/ support), S6 (KenPom), T1 (unders), S10 (injuries) | Reliable with context |
+| **Supporting** (adds edge when stacked) | S8 (3PT dependency), S9 (tempo), X3 (fatigue), X4 (conference), C2 (R32 bonus) | Use to build multi-factor bets |
+| **Tiebreaker only** | X1 (travel — demoted), T3 (referee), narrative factors | Don't score; use for final decisions |
+| **REMOVED** | ~~S1 (seed matchups)~~ | 1-7 in backtest. Do not use. |
 
 ### Important Limitations
 
@@ -357,4 +397,4 @@ This aligns with the "3-5 high-conviction plays per day" guideline from sharp be
 
 ---
 
-*Model version 1.0 — March 2026. Calibrate by tracking results and adjusting factor weights based on observed performance.*
+*Model version 2.0 — March 2026. Built from 5-year mechanical backtest (2021-2025). 315 games scored, 49 bets, 30-19 (61.2%). Every V2 change justified by specific backtest data. See MECHANICAL_SCORING_RULES_V2.md for the complete changelog.*
