@@ -246,32 +246,157 @@ Since the pod system was introduced in 2002, **teams playing first-round games i
 
 ---
 
-## PART 3: THE RECOMMENDED BRACKET
+## PART 3: THE COMPLETE BRACKET — Every Pick, Every Round
 
-### Final Four
-| Region | Pick | Seed |
-|--------|------|------|
-| East | **UConn** | 2 |
-| West | **Arizona** | 1 |
-| Midwest | **Michigan** | 1 |
-| South | **Houston** | 2 |
+### EAST REGION
 
-### National Semifinals
-- **Arizona** over UConn
-- **Michigan** over Houston
+**Round 1:**
+| Game | Pick | Score Confidence |
+|------|------|-----------------|
+| (1) Duke vs (16) Siena | **Duke** | Lock |
+| (8) Ohio State vs (9) TCU | **TCU** | Coin flip — TCU has more upside |
+| (5) St. John's vs (12) Northern Iowa | **Northern Iowa** | 12-over-5 upset — UNI's 3rd-slowest tempo + 24th-best defense neutralizes SJU |
+| (4) Kansas vs (13) Cal Baptist | **Kansas** | Kansas survives despite Cal Baptist's home-state edge |
+| (6) Louisville vs (11) South Florida | **South Florida** | USF won 17 of 19, Louisville 4-8 in Q1 games |
+| (3) Michigan State vs (14) North Dakota State | **Michigan State** | Lock |
+| (7) UCLA vs (10) UCF | **UCF** | UCLA's top 2 scorers injured; UCF takes advantage |
+| (2) UConn vs (15) Furman | **UConn** | Lock |
 
-### National Championship
-### **Arizona over Michigan**
+**Round 2:**
+| Game | Pick |
+|------|------|
+| (1) Duke vs (9) TCU | **Duke** |
+| (4) Kansas vs (12) Northern Iowa | **Kansas** — UNI's Cinderella ends here |
+| (11) South Florida vs (3) Michigan State | **Michigan State** |
+| (10) UCF vs (2) UConn | **UConn** |
 
-**Why Arizona wins it all:**
-1. **Healthiest top team** — no significant injuries, unlike Duke (Foster) and Michigan (Cason)
-2. **Style-proof** — doesn't rely on 3-point shooting, so they won't go cold
-3. **Elite on both ends** — Top 5 offense, Top 3 defense (Championship Formula)
-4. **Size + physicality** — overwhelming in the paint, hard to upset
-5. **12 ranked wins** — tied for most ever entering a tournament
-6. **Cleanest path** — West Region is the most favorable draw
-7. **Conference tournament champion** — Big 12 champs (3 of last 4 national champs also won their conference tournament)
-8. **Beat 12 ranked teams** — more battle-tested than anyone
+**Sweet 16:**
+| Game | Pick |
+|------|------|
+| (1) Duke vs (4) Kansas | **Duke** — talent wins |
+| (3) Michigan State vs (2) UConn | **UConn** — Hurley's championship DNA |
+
+**Elite Eight:**
+| Game | Pick |
+|------|------|
+| (1) Duke vs (2) UConn | **UConn** — Duke's injuries catch up to them |
+
+---
+
+### WEST REGION
+
+**Round 1:**
+| Game | Pick | Score Confidence |
+|------|------|-----------------|
+| (1) Arizona vs (16) LIU | **Arizona** | Lock |
+| (8) Villanova vs (9) Utah State | **Utah State** | Favored -2.5 despite lower seed, 6-0 neutral site |
+| (5) Wisconsin vs (12) High Point | **Wisconsin** | High Point is hot (14-game streak) but Badgers are solid |
+| (4) Arkansas vs (13) Hawaii | **Arkansas** — SEC tourney champs | Hawaii hasn't played a ranked opponent all year |
+| (6) BYU vs (11) Texas/NC State | **Texas** | NC State dropped last 4, but Texas from First Four has momentum |
+| (3) Gonzaga vs (14) Kennesaw State | **Gonzaga** | Lock |
+| (7) Miami (FL) vs (10) Missouri | **Missouri** | Playing in St. Louis = home game, quality wins over FL/Vandy/Tenn |
+| (2) Purdue vs (15) Queens | **Purdue** | Lock |
+
+**Round 2:**
+| Game | Pick |
+|------|------|
+| (1) Arizona vs (9) Utah State | **Arizona** |
+| (4) Arkansas vs (11) Texas | **Arkansas** — SEC tourney momentum |
+| (3) Gonzaga vs (10) Missouri | **Gonzaga** |
+| (2) Purdue vs (5) Wisconsin | **Purdue** — Big Ten tourney champs, KenPom #2 offense |
+
+**Sweet 16:**
+| Game | Pick |
+|------|------|
+| (1) Arizona vs (4) Arkansas | **Arizona** — too complete on both ends |
+| (3) Gonzaga vs (2) Purdue | **Arizona-bound:** **Purdue** — offense wins in a shootout |
+
+**Elite Eight:**
+| Game | Pick |
+|------|------|
+| (1) Arizona vs (2) Purdue | **Arizona** — defense clamps Purdue's offense |
+
+---
+
+### MIDWEST REGION
+
+**Round 1:**
+| Game | Pick | Score Confidence |
+|------|------|-----------------|
+| (1) Michigan vs (16) UMBC/Howard | **Michigan** | Lock |
+| (8) Georgia vs (9) Saint Louis | **Georgia** | Slight edge |
+| (5) Texas Tech vs (12) Akron | **Akron** | 12-over-5 upset — 29-5, 58.5% eFG, 13.4% TO rate, ideal upset profile |
+| (4) Alabama vs (13) Hofstra | **Alabama** | Hofstra is dangerous (11 of last 12) but Bama survives R1 |
+| (6) Tennessee vs (11) Miami (OH)/SMU | **Tennessee** | Neither First Four team is strong enough |
+| (3) Virginia vs (14) Wright State | **Virginia** | Lock |
+| (7) Kentucky vs (10) Santa Clara | **Santa Clara** | UK lost 5 of last 7 — ice cold, classic fade |
+| (2) Iowa State vs (15) Tennessee State | **Iowa State** | Lock |
+
+**Round 2:**
+| Game | Pick |
+|------|------|
+| (1) Michigan vs (8) Georgia | **Michigan** |
+| (4) Alabama vs (12) Akron | **Alabama** — talent gap too large, Akron's run ends |
+| (6) Tennessee vs (3) Virginia | **Virginia** |
+| (10) Santa Clara vs (2) Iowa State | **Iowa State** |
+
+**Sweet 16:**
+| Game | Pick |
+|------|------|
+| (1) Michigan vs (4) Alabama | **Michigan** — #1 defense shuts down Bama's offense |
+| (3) Virginia vs (2) Iowa State | **Iowa State** — both fit Championship Formula, ISU is more dynamic |
+
+**Elite Eight:**
+| Game | Pick |
+|------|------|
+| (1) Michigan vs (2) Iowa State | **Michigan** — #1 defense prevails |
+
+---
+
+### SOUTH REGION
+
+**Round 1:**
+| Game | Pick | Score Confidence |
+|------|------|-----------------|
+| (1) Florida vs (16) Prairie View A&M/Lehigh | **Florida** | Lock |
+| (8) Clemson vs (9) Iowa | **Iowa** | Most underseeded team per KenPom/Torvik/Haslametrics, favored -2.5 |
+| (5) Vanderbilt vs (12) McNeese | **Vanderbilt** | KenPom #12, too strong |
+| (4) Nebraska vs (13) Troy | **Nebraska** | But watch out — Nebraska has NEVER won a tourney game |
+| (6) North Carolina vs (11) VCU | **VCU** | 16 of last 17 wins, strong coaching pedigree |
+| (3) Illinois vs (14) Penn | **Illinois** | Lock — #1 offense nationally |
+| (7) Saint Mary's vs (10) Texas A&M | **Texas A&M** | SMC only 1-4 in Q1, gave up 96 to Vandy |
+| (2) Houston vs (15) Idaho | **Houston** | Lock |
+
+**Round 2:**
+| Game | Pick |
+|------|------|
+| (1) Florida vs (9) Iowa | **Florida** — too much size |
+| (5) Vanderbilt vs (4) Nebraska | **Vanderbilt** — Nebraska's tourney curse continues |
+| (11) VCU vs (3) Illinois | **Illinois** — VCU's run ends against #1 offense |
+| (10) Texas A&M vs (2) Houston | **Houston** |
+
+**Sweet 16:**
+| Game | Pick |
+|------|------|
+| (1) Florida vs (5) Vanderbilt | **Florida** — revenge for SEC tourney loss |
+| (3) Illinois vs (2) Houston | **Houston** — home court advantage + elite defense |
+
+**Elite Eight:**
+| Game | Pick |
+|------|------|
+| (1) Florida vs (2) Houston | **Houston** — playing at HOME in Houston, Sampson's defense smothers Gators |
+
+---
+
+### FINAL FOUR (San Antonio)
+| Semifinal | Pick |
+|-----------|------|
+| (2) UConn vs (1) Arizona | **Arizona** — most complete team, healthiest roster |
+| (1) Michigan vs (2) Houston | **Michigan** — #1 defense neutralizes Houston |
+
+### NATIONAL CHAMPIONSHIP
+## **Arizona over Michigan**
+Arizona's elite balance (Top 5 offense + Top 3 defense) and fully healthy roster overcomes Michigan's #1 defense. The Wildcats' size and physicality — plus 12 ranked wins — make them the most battle-tested and complete team in the field.
 
 ---
 
